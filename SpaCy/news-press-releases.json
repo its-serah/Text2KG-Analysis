@@ -1,0 +1,863 @@
+{
+    "NPR-1": {
+        "svo_relationships": [
+            {
+                "subject": "Halpern",
+                "verb": "announces",
+                "stem": "announce",
+                "object": "appointment"
+            },
+            {
+                "subject": "members",
+                "verb": "advise",
+                "stem": "advise",
+                "object": "Director"
+            },
+            {
+                "subject": "members",
+                "verb": "have",
+                "stem": "have",
+                "object": "experience"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "NPR-2": {
+        "svo_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "opened",
+                "stem": "open",
+                "object": "doors"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-3": {
+        "svo_relationships": [
+            {
+                "subject": "Collins",
+                "verb": "leaves",
+                "stem": "leave",
+                "object": "GPO"
+            },
+            {
+                "subject": "She",
+                "verb": "led",
+                "stem": "lead",
+                "object": "Operations"
+            },
+            {
+                "subject": "Collins",
+                "verb": "oversaw",
+                "stem": "oversee",
+                "object": "production"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "NPR-4": {
+        "svo_relationships": [
+            {
+                "subject": "we",
+                "verb": "thank",
+                "stem": "thank",
+                "object": "Patty"
+            },
+            {
+                "subject": "all",
+                "verb": "wish",
+                "stem": "wish",
+                "object": "her"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-5": {
+        "svo_relationships": [
+            {
+                "subject": "She",
+                "verb": "spent",
+                "stem": "spend",
+                "object": "seven"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-6": {
+        "svo_relationships": [
+            {
+                "subject": "she",
+                "verb": "continued",
+                "stem": "continue",
+                "object": "service"
+            },
+            {
+                "subject": "which",
+                "verb": "included",
+                "stem": "include",
+                "object": "deployment"
+            },
+            {
+                "subject": "she",
+                "verb": "represented",
+                "stem": "represent",
+                "object": "States"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "NPR-7": {
+        "svo_relationships": [
+            {
+                "subject": "native",
+                "verb": "holds",
+                "stem": "hold",
+                "object": "Master"
+            },
+            {
+                "subject": "that",
+                "verb": "guide",
+                "stem": "guide",
+                "object": "operation"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-8": {
+        "svo_relationships": [
+            {
+                "subject": "I",
+                "verb": "know",
+                "stem": "know",
+                "object": "that"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-9": {
+        "svo_relationships": [
+            {
+                "subject": "Beth",
+                "verb": "lead",
+                "stem": "lead",
+                "object": "team"
+            },
+            {
+                "subject": "I",
+                "verb": "congratulate",
+                "stem": "congratulate",
+                "object": "Beth"
+            },
+            {
+                "subject": "Shearer",
+                "verb": "began",
+                "stem": "begin",
+                "object": "career"
+            },
+            {
+                "subject": "she",
+                "verb": "gained",
+                "stem": "gain",
+                "object": "experience"
+            },
+            {
+                "subject": "Beth",
+                "verb": "held",
+                "stem": "hold",
+                "object": "positions"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "NPR-10": {
+        "svo_relationships": [
+            {
+                "subject": "Goubet",
+                "verb": "built",
+                "stem": "build",
+                "object": "cake"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-11": {
+        "svo_relationships": [
+            {
+                "subject": "that",
+                "verb": "held",
+                "stem": "hold",
+                "object": "cake"
+            },
+            {
+                "subject": "Goubet",
+                "verb": "transported",
+                "stem": "transport",
+                "object": "cake"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-12": {
+        "svo_relationships": [
+            {
+                "subject": "each",
+                "verb": "has",
+                "stem": "have",
+                "object": "perspective"
+            },
+            {
+                "subject": "she",
+                "verb": "curates",
+                "stem": "curate",
+                "object": "the"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-13": {
+        "svo_relationships": [
+            {
+                "subject": "cake",
+                "verb": "suffered",
+                "stem": "suffer",
+                "object": "bit"
+            },
+            {
+                "subject": "Goubet",
+                "verb": "says",
+                "stem": "say",
+                "object": "part"
+            },
+            {
+                "subject": "He",
+                "verb": "used",
+                "stem": "use",
+                "object": "postcard"
+            },
+            {
+                "subject": "him",
+                "verb": "design",
+                "stem": "design",
+                "object": "cake"
+            },
+            {
+                "subject": "He",
+                "verb": "spent",
+                "stem": "spend",
+                "object": "days"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "NPR-14": {
+        "svo_relationships": [
+            {
+                "subject": "it",
+                "verb": "takes",
+                "stem": "take",
+                "object": "lot"
+            },
+            {
+                "subject": "Goubet",
+                "verb": "spent",
+                "stem": "spend",
+                "object": "month"
+            },
+            {
+                "subject": "uncle",
+                "verb": "owned",
+                "stem": "own",
+                "object": "bakery"
+            },
+            {
+                "subject": "Goubet",
+                "verb": "got",
+                "stem": "get",
+                "object": "start"
+            },
+            {
+                "subject": "I",
+                "verb": "needed",
+                "stem": "need",
+                "object": "money"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "NPR-15": {
+        "svo_relationships": [
+            {
+                "subject": "Goubet",
+                "verb": "spent",
+                "stem": "spend",
+                "object": "years"
+            },
+            {
+                "subject": "he",
+                "verb": "bakes",
+                "stem": "bake",
+                "object": "cakes"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-16": {
+        "svo_relationships": [
+            {
+                "subject": "I",
+                "verb": "make",
+                "stem": "make",
+                "object": "cakes"
+            },
+            {
+                "subject": "I",
+                "verb": "make",
+                "stem": "make",
+                "object": "cakes"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-17": {
+        "svo_relationships": [
+            {
+                "subject": "GovInfo",
+                "verb": "earned",
+                "stem": "earn",
+                "object": "certification"
+            },
+            {
+                "subject": "certification",
+                "verb": "provides",
+                "stem": "provide",
+                "object": "producers"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-19": {
+        "svo_relationships": [
+            {
+                "subject": "GovInfo",
+                "verb": "offers",
+                "stem": "offer",
+                "object": "publications"
+            },
+            {
+                "subject": "GPO",
+                "verb": "adds",
+                "stem": "add",
+                "object": "average"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-20": {
+        "svo_relationships": [
+            {
+                "subject": "Director",
+                "verb": "outlined",
+                "stem": "outline",
+                "object": "vision"
+            },
+            {
+                "subject": "Agency",
+                "verb": "uses",
+                "stem": "use",
+                "object": "AI"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-21": {
+        "svo_relationships": [
+            {
+                "subject": "capabilities",
+                "verb": "improve",
+                "stem": "improve",
+                "object": "performance"
+            },
+            {
+                "subject": "we",
+                "verb": "relieve",
+                "stem": "relieve",
+                "object": "pressure"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "noted",
+                "stem": "note",
+                "object": "applications"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "NPR-22": {
+        "svo_relationships": [
+            {
+                "subject": "issues",
+                "verb": "reject",
+                "stem": "reject",
+                "object": "pages"
+            },
+            {
+                "subject": "that",
+                "verb": "meet",
+                "stem": "meet",
+                "object": "specifications"
+            },
+            {
+                "subject": "presses",
+                "verb": "include",
+                "stem": "include",
+                "object": "functions"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "NPR-24": {
+        "svo_relationships": [
+            {
+                "subject": "who",
+                "verb": "spent",
+                "stem": "spend",
+                "object": "decades"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-25": {
+        "svo_relationships": [
+            {
+                "subject": "Bear",
+                "verb": "stuffed",
+                "stem": "stuff",
+                "object": "animal"
+            },
+            {
+                "subject": "grandfather",
+                "verb": "gave",
+                "stem": "give",
+                "object": "that"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-26": {
+        "svo_relationships": [
+            {
+                "subject": "He",
+                "verb": "gave",
+                "stem": "give",
+                "object": "one"
+            },
+            {
+                "subject": "pair",
+                "verb": "found",
+                "stem": "find",
+                "object": "envelope"
+            },
+            {
+                "subject": "This",
+                "verb": "prompted",
+                "stem": "prompt",
+                "object": "me"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "NPR-27": {
+        "svo_relationships": [
+            {
+                "subject": "who",
+                "verb": "had",
+                "stem": "have",
+                "object": "more"
+            },
+            {
+                "subject": "Simon",
+                "verb": "found",
+                "stem": "find",
+                "object": "memorabilia"
+            },
+            {
+                "subject": "who",
+                "verb": "raised",
+                "stem": "raise",
+                "object": "two"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "NPR-28": {
+        "svo_relationships": [
+            {
+                "subject": "I",
+                "verb": "had",
+                "stem": "have",
+                "object": "stories"
+            },
+            {
+                "subject": "teammates",
+                "verb": "rated",
+                "stem": "rate",
+                "object": "GPO"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-29": {
+        "svo_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "onboarded",
+                "stem": "onboarde",
+                "object": "teammates"
+            },
+            {
+                "subject": "Agency",
+                "verb": "produced",
+                "stem": "produce",
+                "object": "number"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-30": {
+        "svo_relationships": [
+            {
+                "subject": "they",
+                "verb": "recommend",
+                "stem": "recommend",
+                "object": "employer"
+            },
+            {
+                "subject": "Organizations",
+                "verb": "deemed",
+                "stem": "deem",
+                "object": "employers"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-31": {
+        "svo_relationships": [
+            {
+                "subject": "GovInfo",
+                "verb": "hit",
+                "stem": "hit",
+                "object": "number"
+            },
+            {
+                "subject": "GPO",
+                "verb": "garnered",
+                "stem": "garner",
+                "object": "retrievals"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-32": {
+        "svo_relationships": [
+            {
+                "subject": "number",
+                "verb": "demonstrates",
+                "stem": "demonstrate",
+                "object": "need"
+            },
+            {
+                "subject": "GPO",
+                "verb": "expanding",
+                "stem": "expand",
+                "object": "access"
+            },
+            {
+                "subject": "people",
+                "verb": "making",
+                "stem": "make",
+                "object": "use"
+            },
+            {
+                "subject": "GPO",
+                "verb": "unveiled",
+                "stem": "unveil",
+                "object": "generation"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "NPR-33": {
+        "svo_relationships": [
+            {
+                "subject": "Office",
+                "verb": "digitizing",
+                "stem": "digitize",
+                "object": "volumes"
+            },
+            {
+                "subject": "release",
+                "verb": "includes",
+                "stem": "include",
+                "object": "Directories"
+            },
+            {
+                "subject": "It",
+                "verb": "includes",
+                "stem": "include",
+                "object": "biographies"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "NPR-34": {
+        "svo_relationships": [
+            {
+                "subject": "DeLuca",
+                "verb": "linked",
+                "stem": "link",
+                "object": "audiences"
+            },
+            {
+                "subject": "she",
+                "verb": "provides",
+                "stem": "provide",
+                "object": "services"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-35": {
+        "svo_relationships": [
+            {
+                "subject": "it",
+                "verb": "provides",
+                "stem": "provide",
+                "object": "descriptions"
+            },
+            {
+                "subject": "public",
+                "verb": "access",
+                "stem": "access",
+                "object": "Directories"
+            },
+            {
+                "subject": "digitization",
+                "verb": "represents",
+                "stem": "represent",
+                "object": "step"
+            },
+            {
+                "subject": "I",
+                "verb": "congratulate",
+                "stem": "congratulate",
+                "object": "team"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "NPR-36": {
+        "svo_relationships": [
+            {
+                "subject": "who",
+                "verb": "freed",
+                "stem": "free",
+                "object": "himself"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-37": {
+        "svo_relationships": [
+            {
+                "subject": "Knoxville",
+                "verb": "signed",
+                "stem": "sign",
+                "object": "Memorandum"
+            },
+            {
+                "subject": "libraries",
+                "verb": "adding",
+                "stem": "add",
+                "object": "materials"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-38": {
+        "svo_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "established",
+                "stem": "establish",
+                "object": "Stewards"
+            },
+            {
+                "subject": "libraries",
+                "verb": "committing",
+                "stem": "commit",
+                "object": "support"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-39": {
+        "svo_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "realize",
+                "stem": "realize",
+                "object": "vision"
+            },
+            {
+                "subject": "collection",
+                "verb": "preserving",
+                "stem": "preserve",
+                "object": "collections"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-40": {
+        "svo_relationships": [
+            {
+                "subject": "reports",
+                "verb": "adding",
+                "stem": "add",
+                "object": "Code"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-41": {
+        "svo_relationships": [
+            {
+                "subject": "Force",
+                "verb": "released",
+                "stem": "release",
+                "object": "report"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-42": {
+        "svo_relationships": [
+            {
+                "subject": "responses",
+                "verb": "include",
+                "stem": "include",
+                "object": "following"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-45": {
+        "svo_relationships": [
+            {
+                "subject": "She",
+                "verb": "has",
+                "stem": "have",
+                "object": "experience"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-46": {
+        "svo_relationships": [
+            {
+                "subject": "Agency",
+                "verb": "expanding",
+                "stem": "expand",
+                "object": "classes"
+            },
+            {
+                "subject": "GPO",
+                "verb": "developed",
+                "stem": "develop",
+                "object": "generation"
+            },
+            {
+                "subject": "we",
+                "verb": "do",
+                "stem": "do",
+                "object": "for"
+            },
+            {
+                "subject": "we",
+                "verb": "continue",
+                "stem": "continue",
+                "object": "years"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "NPR-47": {
+        "svo_relationships": [
+            {
+                "subject": "Andrea",
+                "verb": "has",
+                "stem": "have",
+                "object": "experience"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "presented",
+                "stem": "present",
+                "object": "request"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-48": {
+        "svo_relationships": [
+            {
+                "subject": "Halpern",
+                "verb": "requested",
+                "stem": "request",
+                "object": "appropriations"
+            },
+            {
+                "subject": "appropriations",
+                "verb": "represent",
+                "stem": "represent",
+                "object": "percent"
+            },
+            {
+                "subject": "request",
+                "verb": "enable",
+                "stem": "enable",
+                "object": "GPO"
+            },
+            {
+                "subject": "GPO",
+                "verb": "administers",
+                "stem": "administer",
+                "object": "Program"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "NPR-49": {
+        "svo_relationships": [
+            {
+                "subject": "We",
+                "verb": "closed",
+                "stem": "close",
+                "object": "books"
+            },
+            {
+                "subject": "we",
+                "verb": "had",
+                "stem": "have",
+                "object": "income"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "highlighted",
+                "stem": "highlight",
+                "object": "accomplishments"
+            }
+        ],
+        "total_SVOs": 3
+    }
+}

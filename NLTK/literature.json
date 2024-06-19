@@ -1,0 +1,257 @@
+{
+    "Lit-2": {
+        "SVO_relationships": [
+            {
+                "subject": "the voice",
+                "verb": "be",
+                "stem": "be",
+                "object": "Alleluiaor Arizona"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-5": {
+        "SVO_relationships": [
+            {
+                "subject": "mother",
+                "verb": "turn",
+                "stem": "turn",
+                "object": "round"
+            },
+            {
+                "subject": "Mrs. Tomolillo",
+                "verb": "match",
+                "stem": "match",
+                "object": "thetips"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-6": {
+        "SVO_relationships": [
+            {
+                "subject": "ofthem",
+                "verb": "have",
+                "stem": "have",
+                "object": "a queer name"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-9": {
+        "SVO_relationships": [
+            {
+                "subject": "Negro",
+                "verb": "wheel",
+                "stem": "wheel",
+                "object": "the food cart"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-11": {
+        "SVO_relationships": [
+            {
+                "subject": "Tomolillo",
+                "verb": "have",
+                "stem": "have",
+                "object": "the lids"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-14": {
+        "SVO_relationships": [
+            {
+                "subject": "The red-headed woman",
+                "verb": "snatch",
+                "stem": "snatch",
+                "object": "the tureen"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-15": {
+        "SVO_relationships": [
+            {
+                "subject": "Mrs. Mole",
+                "verb": "keptturning",
+                "stem": "keptturning",
+                "object": "round"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-18": {
+        "SVO_relationships": [
+            {
+                "subject": "fellow travellerhad",
+                "verb": "endure",
+                "stem": "endure",
+                "object": "the full rigour"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-21": {
+        "SVO_relationships": [
+            {
+                "subject": "The man",
+                "verb": "make",
+                "stem": "make",
+                "object": "a whistling sound"
+            },
+            {
+                "subject": "swarthyinterlocutor",
+                "verb": "be",
+                "stem": "be",
+                "object": "nothing"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-22": {
+        "SVO_relationships": [
+            {
+                "subject": "the darkhaired man",
+                "verb": "smirk",
+                "stem": "smirk",
+                "object": "a few times"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-26": {
+        "SVO_relationships": [
+            {
+                "subject": "The fair-haired youngman",
+                "verb": "make",
+                "stem": "make",
+                "object": "no bones"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-31": {
+        "SVO_relationships": [
+            {
+                "subject": "The merchant",
+                "verb": "be",
+                "stem": "be",
+                "object": "the proprietor"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-32": {
+        "SVO_relationships": [
+            {
+                "subject": "the man",
+                "verb": "ask",
+                "stem": "ask",
+                "object": "the shepherd"
+            },
+            {
+                "subject": "’ t",
+                "verb": "know",
+                "stem": "know",
+                "object": "shepherds"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-33": {
+        "SVO_relationships": [
+            {
+                "subject": "The boy",
+                "verb": "mumble",
+                "stem": "mumble",
+                "object": "an answer"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-37": {
+        "SVO_relationships": [
+            {
+                "subject": "the sheep",
+                "verb": "be",
+                "stem": "be",
+                "object": "food"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-42": {
+        "SVO_relationships": [
+            {
+                "subject": "The merchant",
+                "verb": "be",
+                "stem": "be",
+                "object": "the proprietor"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-43": {
+        "SVO_relationships": [
+            {
+                "subject": "the man",
+                "verb": "ask",
+                "stem": "ask",
+                "object": "the shepherd"
+            },
+            {
+                "subject": "’ t",
+                "verb": "know",
+                "stem": "know",
+                "object": "shepherds"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-44": {
+        "SVO_relationships": [
+            {
+                "subject": "The boy",
+                "verb": "mumble",
+                "stem": "mumble",
+                "object": "an answer"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-47": {
+        "SVO_relationships": [
+            {
+                "subject": "theymight",
+                "verb": "have",
+                "stem": "have",
+                "object": "a good way"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-49": {
+        "SVO_relationships": [
+            {
+                "subject": "Priests",
+                "verb": "be",
+                "stem": "be",
+                "object": "terrible gossips"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-50": {
+        "SVO_relationships": [
+            {
+                "subject": "Aunt Libby'shusband",
+                "verb": "have",
+                "stem": "have",
+                "object": "a joke"
+            }
+        ],
+        "total_SVOs": 1
+    }
+}

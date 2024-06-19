@@ -1,0 +1,325 @@
+{
+    "Med-1": {
+        "SVO_relationships": [
+            {
+                "subject": "pa-tients",
+                "verb": "have",
+                "stem": "have",
+                "object": "infection.our experience"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-2": {
+        "SVO_relationships": [
+            {
+                "subject": "each dog",
+                "verb": "be",
+                "stem": "be",
+                "object": "the balloon"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-3": {
+        "SVO_relationships": [
+            {
+                "subject": "this hormone",
+                "verb": "be",
+                "stem": "be",
+                "object": "fat stores"
+            },
+            {
+                "subject": "andinorganic phosphate",
+                "verb": "be",
+                "stem": "be",
+                "object": "followingthe administration"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-4": {
+        "SVO_relationships": [
+            {
+                "subject": "adultswith rheumatoid arthritis",
+                "verb": "be",
+                "stem": "be",
+                "object": "examinedfor localization"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-5": {
+        "SVO_relationships": [
+            {
+                "subject": "a wider area",
+                "verb": "be",
+                "stem": "be",
+                "object": "the differentiation"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-9": {
+        "SVO_relationships": [
+            {
+                "subject": "patients",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "irradiationbecause"
+            },
+            {
+                "subject": "patients",
+                "verb": "receive",
+                "stem": "receive",
+                "object": "irradiationbecause"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-12": {
+        "SVO_relationships": [
+            {
+                "subject": "loss.sixteen cases",
+                "verb": "have",
+                "stem": "have",
+                "object": "exact documentation"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-13": {
+        "SVO_relationships": [
+            {
+                "subject": "reliable information",
+                "verb": "concern",
+                "stem": "concern",
+                "object": "the synthesis"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-14": {
+        "SVO_relationships": [
+            {
+                "subject": "spoken language",
+                "verb": "inanalysing",
+                "stem": "inanalysing",
+                "object": "the oral output"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-16": {
+        "SVO_relationships": [
+            {
+                "subject": "followingunilateral nephrectomy",
+                "verb": "be",
+                "stem": "be",
+                "object": "the increasesignificant"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-22": {
+        "SVO_relationships": [
+            {
+                "subject": "con-sistent",
+                "verb": "alter",
+                "stem": "alter",
+                "object": "function"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-26": {
+        "SVO_relationships": [
+            {
+                "subject": "a cytochemical andultrastructural",
+                "verb": "studycultured",
+                "stem": "studycultured",
+                "object": "kb cells"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-27": {
+        "SVO_relationships": [
+            {
+                "subject": "b. subtilis strains",
+                "verb": "liberate",
+                "stem": "liberate",
+                "object": "/bacteriocin/-like principles"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-29": {
+        "SVO_relationships": [
+            {
+                "subject": "the soluble protein",
+                "verb": "take",
+                "stem": "take",
+                "object": "place"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-30": {
+        "SVO_relationships": [
+            {
+                "subject": "los angeles",
+                "verb": "be",
+                "stem": "be",
+                "object": "reviewed.biliary enteric decompression"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-31": {
+        "SVO_relationships": [
+            {
+                "subject": "a week",
+                "verb": "produce",
+                "stem": "produce",
+                "object": "a growth"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-32": {
+        "SVO_relationships": [
+            {
+                "subject": "the followingconclusions",
+                "verb": "appear",
+                "stem": "appear",
+                "object": "justified inthe light"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-34": {
+        "SVO_relationships": [
+            {
+                "subject": "Suicide",
+                "verb": "be",
+                "stem": "be",
+                "object": "a major public health problem"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-35": {
+        "SVO_relationships": [
+            {
+                "subject": "preventive treatment",
+                "verb": "be",
+                "stem": "be",
+                "object": "early immobilisation"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-39": {
+        "SVO_relationships": [
+            {
+                "subject": "several species",
+                "verb": "have",
+                "stem": "have",
+                "object": "glucose 6-phos- phate dehydrogenase activity"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-40": {
+        "SVO_relationships": [
+            {
+                "subject": "months",
+                "verb": "follow",
+                "stem": "follow",
+                "object": "childbirth"
+            },
+            {
+                "subject": "fifty pregnant women",
+                "verb": "be",
+                "stem": "be",
+                "object": "a battery"
+            },
+            {
+                "subject": "months",
+                "verb": "follow",
+                "stem": "follow",
+                "object": "childbirth"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Med-42": {
+        "SVO_relationships": [
+            {
+                "subject": "a rare hereditary tubular dysfunction",
+                "verb": "cause",
+                "stem": "cause",
+                "object": "gene mutations"
+            },
+            {
+                "subject": "Pathogenic genes",
+                "verb": "be",
+                "stem": "be",
+                "object": "a result"
+            },
+            {
+                "subject": "Laboratory examinations",
+                "verb": "show",
+                "stem": "show",
+                "object": "no obvious abnormality"
+            },
+            {
+                "subject": "genetic analysis",
+                "verb": "reveal",
+                "stem": "reveal",
+                "object": "a C > T transition"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Med-43": {
+        "SVO_relationships": [
+            {
+                "subject": "known",
+                "verb": "be",
+                "stem": "be",
+                "object": "perhapsrenal dysplasia"
+            },
+            {
+                "subject": "dehydration",
+                "verb": "have",
+                "stem": "have",
+                "object": "thethought"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Med-44": {
+        "SVO_relationships": [
+            {
+                "subject": "placenta",
+                "verb": "increase",
+                "stem": "increase",
+                "object": "the resistance"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Med-48": {
+        "SVO_relationships": [
+            {
+                "subject": "the precordial focusingzone",
+                "verb": "be",
+                "stem": "be",
+                "object": "a critical factor"
+            }
+        ],
+        "total_SVOs": 1
+    }
+}

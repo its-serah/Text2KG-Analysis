@@ -1,0 +1,1718 @@
+{
+    "MOV-1": {
+    "SVO_relationships": [
+    {
+    "subject": "Summer Finn",
+    "verb": "is",
+    "stem": "be",
+    "object": "SUMMER FINN"
+    },
+    {
+    "subject": "Summer Finn",
+    "verb": "files",
+    "stem": "file",
+    "object": "folders"
+    },
+    {
+    "subject": "Summer Finn",
+    "verb": "answers",
+    "stem": "answer",
+    "object": "phones"
+    },
+    {
+    "subject": "Summer Finn",
+    "verb": "start",
+    "stem": "start",
+    "object": "dancing"
+    }
+    ],
+    "total_SVOs": 4
+    },
+    "MOV-2": {
+        "SVO_relationships": [
+        {
+        "subject": "Tom",
+        "verb": "walks",
+        "stem": "walk",
+        "object": "down"
+        },
+        {
+        "subject": "Tom",
+        "verb": "sulks",
+        "stem": "sulk",
+        "object": "street"
+        },
+        {
+        "subject": "Tom",
+        "verb": "checks",
+        "stem": "check",
+        "object": "reflection"
+        },
+        {
+        "subject": "Hall and Oates",
+        "verb": "follow",
+        "stem": "follow",
+        "object": "Tom"
+        },
+        {
+        "subject": "Ron Howard's brother Clint",
+        "verb": "looks",
+        "stem": "look",
+        "object": "back"
+        },
+        {
+        "subject": "Tom",
+        "verb": "walks",
+        "stem": "walk",
+        "object": "COUPLE making out on a bench"
+        },
+        {
+        "subject": "Tom",
+        "verb": "walks",
+        "stem": "walk",
+        "object": "by a sign that says 'TODAY ONLY: FREE BEER.'"
+        }
+        ],
+        "total_SVOs": 7
+    },
+    "MOV-3": {
+        "SVO_relationships": [
+        {
+        "subject": "Tom",
+        "verb": "swats",
+        "stem": "swat",
+        "object": "away"
+        },
+        {
+        "subject": "Tom",
+        "verb": "doesn't even",
+        "stem": "not do",
+        "object": "look up"
+        },
+        {
+        "subject": "She (WORLD'S MOST BEAUTIFUL WOMAN)",
+        "verb": "says",
+        "stem": "say",
+        "object": "'You can do it!'"
+        },
+        {
+        "subject": "Tom",
+        "verb": "thinks",
+        "stem": "think",
+        "object": "people will really enjoy them"
+        },
+        {
+        "subject": "She (WORLD'S MOST BEAUTIFUL WOMAN)",
+        "verb": "takes",
+        "stem": "take",
+        "object": "her seat"
+        },
+        {
+        "subject": "we (camera)",
+        "verb": "can almost",
+        "stem": "can do",
+        "object": "pan across several empty tables"
+        }
+        ],
+        "total_SVOs": 6
+    },
+    "MOV-4": {
+        "SVO_relationships": [
+        {
+        "subject": "we (camera)",
+        "verb": "smell",
+        "stem": "smell",
+        "object": "the odor of last nights beer and crushed pretzels on the floor"
+        },
+        {
+        "subject": "CHUCKIE SULLIVAN",
+        "verb": "hold",
+        "stem": "hold",
+        "object": "court"
+        },
+        {
+        "subject": "CHUCKIE SULLIVAN",
+        "verb": "be",
+        "stem": "be",
+        "object": "loud, boisterous, a born entertainer"
+        },
+        {
+        "subject": "WILL HUNTING",
+        "verb": "be",
+        "stem": "be",
+        "object": "handsome and confident, a softspoken leader"
+        },
+        {
+        "subject": "CHUCKIE SULLIVAN",
+        "verb": "listen",
+        "stem": "list",
+        "object": "to Chuckie's horror stories"
+        },
+        {
+        "subject": "MORGAN O'MALLY",
+        "verb": "listen",
+        "stem": "list",
+        "object": "to Chuckie's horror stories with eager disgust"
+        }
+        ],
+        "total_SVOs": 6
+    },
+    "MOV-5": {
+        "SVO_relationships": [
+        {
+        "subject": "these boys",
+        "verb": "speak",
+        "stem": "speak",
+        "object": "with thick Boston accents"
+        },
+        {
+        "subject": "this neighborhood",
+        "verb": "be",
+        "stem": "be",
+        "object": "a rough, working class Irish neighborhood"
+        },
+        {
+        "subject": "these boys",
+        "verb": "be",
+        "stem": "be",
+        "object": "its product"
+        },
+        {
+        "subject": "we (camera)",
+        "verb": "see",
+        "stem": "see",
+        "object": "a panoramic view of South Boston"
+        },
+        {
+        "subject": "Will",
+        "verb": "flip through",
+        "stem": "flip",
+        "object": "a stack of twenty or so LIBRARY BOOKS"
+        }
+        ],
+        "total_SVOs": 5
+    },
+    "MOV-6": {
+        "SVO_relationships": [
+        {
+        "subject": "Will",
+        "verb": "flip through",
+        "stem": "flip",
+        "object": "a book at about a page a second"
+        },
+        {
+        "subject": "Chuckie",
+        "verb": "stand",
+        "stem": "stand",
+        "object": "on the porch to Will's house"
+        },
+        {
+        "subject": "Chuckie and Will",
+        "verb": "get in",
+        "stem": "get in",
+        "object": "the car"
+        },
+        {
+        "subject": "we (camera)",
+        "verb": "travel",
+        "stem": "travel",
+        "object": "across crowded public housing and onto downtown"
+        },
+        {
+        "subject": "we (camera)",
+        "verb": "gaze",
+        "stem": "gaze",
+        "object": "across the river and onto the great cementdomed buildings that make up the M.I.T. campus"
+        },
+        {
+        "subject": "the speaker (Will's professor?)",
+        "verb": "hope",
+        "stem": "hope",
+        "object": "that one of you might prove it by the end of the semester"
+        },
+        {
+        "subject": "the speaker (Will's professor?)",
+        "verb": "say",
+        "stem": "say",
+        "object": "The first person to do so will not only be in my good graces, but go on"
+        }
+        ],
+        "total_SVOs": 7
+    },
+    "MOV-7": {
+        "SVO_relationships": [
+        {
+        "subject": "the speaker (Will's professor?)",
+        "verb": "say",
+        "stem": "say",
+        "object": "to fame and fortune "
+        },
+        {
+        "subject": "Prof. Lambeau",
+        "verb": "hold up",
+        "stem": "hold up",
+        "object": "a thin publication entitled 'M.I.T. Tech.'"
+        },
+        {
+        "subject": "Lambeau",
+        "verb": "say",
+        "stem": "say",
+        "object": "Former winners"
+        },
+        {
+        "subject": "Lambeau",
+        "verb": "say",
+        "stem": "say",
+        "object": "Okay. That is all."
+        },
+        {
+        "subject": "students",
+        "verb": "pack",
+        "stem": "pack",
+        "object": "their bags"
+        },
+        {
+        "subject": "Morgan",
+        "verb": "say",
+        "stem": "say",
+        "object": "I don't got a crush on her."
+        },
+        {
+        "subject": "Will",
+        "verb": "see",
+        "stem": "see",
+        "object": "something O.S. (out of sight)"
+        },
+        {
+        "subject": "Will",
+        "verb": "look at",
+        "stem": "look at",
+        "object": "BOBBY CHAMPA and his friends walking down the street"
+        }
+        ],
+        "total_SVOs": 8
+    },
+
+        "MOV-8": {
+            "SVO_relationships": [
+            {
+            "subject": "one of them",
+            "verb": "casually lob",
+            "stem": "lob",
+            "object": "a bottle into a wire garbage can"
+            },
+            {
+            "subject": "some of the glass",
+            "verb": "hit",
+            "stem": "hit",
+            "object": "a FEMALE PASSER BY"
+            },
+            {
+            "subject": "the woman",
+            "verb": "say",
+            "stem": "say",
+            "object": "something to Bobby"
+            },
+            {
+            "subject": "Bobby",
+            "verb": "say",
+            "stem": "say",
+            "object": "something back"
+            },
+            {
+            "subject": "the woman",
+            "verb": "look at",
+            "stem": "look at",
+            "object": "By the look on her face, it was something unpleasant"
+            },
+            {
+            "subject": "Morgan",
+            "verb": "say",
+            "stem": "say",
+            "object": "Come on, Will..."
+            },
+            {
+            "subject": "Morgan",
+            "verb": "ask",
+            "stem": "ask",
+            "object": "No, why didn't you fight him at the park if you wanted to?"
+            },
+            {
+            "subject": "Morgan",
+            "verb": "say",
+            "stem": "say",
+            "object": "I'm not goin' now, I'm eatin' my snack."
+            }
+            ],
+            "total_SVOs": 8
+        },
+        "MOV-9": {
+            "SVO_relationships": [
+            {
+            "subject": "Chuckie",
+            "verb": "say",
+            "stem": "say",
+            "object": "Let's go."
+            },
+            {
+            "subject": "Morgan",
+            "verb": "say",
+            "stem": "say",
+            "object": "I'm serious Chuckie, I ain't goin'."
+            },
+            {
+            "subject": "Chuckie",
+            "verb": "open",
+            "stem": "open",
+            "object": "his door"
+            },
+            
+            {
+            "subject": "Chuckie",
+            "verb": "say",
+            "stem": "say",
+            "object": "You're goin"
+            }
+            ],
+            "total_SVOs": 4
+        },
+        "MOV-10": {
+            "SVO_relationships": [
+            {
+            "subject": "Will",
+            "verb": "say",
+            "stem": "say",
+            "object": "Hey, Bobby Champa! I went to Kindergarten with you right? Sister Margaret's class..."
+            },
+            {
+            "subject": "Will",
+            "verb": "punch",
+            "stem": "drill with a sucker-punch",
+            "object": "Bobby"
+            },
+            {
+            "subject": "Will",
+            "verb": "hits",
+            "stem": "hit",
+            "object": "Bobby"
+            },
+            {
+            "subject": "Bobby's friends",
+            "verb": "converge",
+            "stem": "converge ",
+            "object": "Will"
+            }
+            
+            ],
+            "total_SVOs": 4
+        },
+
+        "MOV-11": {
+            "SVO_relationships": [
+            {
+            "subject": "another guy",
+            "verb": "hammer",
+            "stem": "hammers Will with a right hand to the head",
+            "object": "Will"
+            }
+
+            ],
+            "total_SVOs": 1
+        },
+        "MOV-12": {
+            "SVO_relationships": [
+            {
+            "subject": "Morgan",
+            "verb": "will",
+            "stem": "will",
+            "object": "can do"
+            },
+            {
+            "subject": "Morgan",
+            "verb": "do",
+            "stem": "do",
+            "object": "to stay standing"
+            },
+            {
+            "subject": "Morgan",
+            "verb": "DROP KICKS",
+            "stem": "drop kick",
+            "object": "one of Champa's boys"
+            },
+            {
+            "subject": "Morgan",
+            "verb": "is",
+            "stem": "be",
+            "object": "actually quite a fighter"
+            },
+            {
+            "subject": "He",
+            "verb": "peppers",
+            "stem": "pepper",
+            "object": "the kid with a flurry of blows"
+            },
+            {
+            "subject": "someone",
+            "verb": "throws",
+            "stem": "throw",
+            "object": "a bottle"
+            },
+            {
+            "subject": "our guys",
+            "verb": "are",
+            "stem": "be",
+            "object": "left standing"
+            },
+            {
+            "subject": "Bobby's friends",
+            "verb": "stagger",
+            "stem": "stagger",
+            "object": "off"
+            },
+            {
+            "subject": "Chuckie and Morgan",
+            "verb": "turn",
+            "stem": "turn",
+            "object": "to see Will"
+            }
+            ],
+            "total_SVOs": 9
+            },
+            "MOV-13": {
+                "SVO_relationships": [
+                {
+                "subject": "Bobby Champa",
+                "verb": "POUNDING",
+                "stem": "pound",
+                "object": "him"
+                },
+                {
+                "subject": "Will",
+                "verb": "is",
+                "stem": "be",
+                "object": "SAVAGE, UGLY, VICIOUS, AND VIOLENT"
+                },
+                {
+                "subject": "he",
+                "verb": "taking",
+                "stem": "take",
+                "object": "them out on Bobby Champa"
+                },
+                {
+                "subject": "Will",
+                "verb": "pummels",
+                "stem": "pummel",
+                "object": "the helpless, unconscious Champa"
+                },
+                {
+                "subject": "Chuckie and Billy",
+                "verb": "pull",
+                "stem": "pull",
+                "object": "Will away"
+                },
+                {
+                "subject": "The POLICE",
+                "verb": "finally arrive",
+                "stem": "arrive",
+                "object": "on the scene"
+                },
+                {
+                "subject": "They",
+                "verb": "grab",
+                "stem": "grab",
+                "object": "him"
+                },
+                {
+                "subject": "Chuckie",
+                "verb": "addresses",
+                "stem": "address",
+                "object": "them"
+                },
+                {
+                "subject": "Will",
+                "verb": "says",
+                "stem": "say",
+                "object": "Yeah, you're all invited over"
+                }
+                ],
+                "total_SVOs": 9
+    },
+    "MOV-14": {
+        "SVO_relationships": [
+        {
+        "subject": "The Police",
+        "verb": "slam",
+        "stem": "slam",
+        "object": "Will"
+        },
+        {
+        "subject": "The cop",
+        "verb": "SLAM",
+        "stem": "slam",
+        "object": "Will's face"
+        },
+        {
+        "subject": "Another cop",
+        "verb": "uses",
+        "stem": "use",
+        "object": "baton"
+        },
+        {
+        "subject": "The Police",
+        "verb": "press",
+        "stem": "press",
+        "object": "Will's face"
+        },
+        {
+        "subject": "Will",
+        "verb": "KICKS",
+        "stem": "kick",
+        "object": "HIM IN THE KNEE"
+        }
+        ],
+        "total_SVOs": 5
+        },
+        "MOV-15": {
+            "SVO_relationships": [
+            {
+            "subject": "More",
+            "verb": "converge",
+            "stem": "converge",
+            "object": "on Will"
+            },
+            {
+            "subject": "LANDLADY",
+            "verb": "says",
+            "stem": "say",
+            "object": "Sean"
+            },
+            {
+            "subject": "LANDLADY",
+            "verb": "says",
+            "stem": "say",
+            "object": "Sean"
+            },
+            {
+            "subject": "LANDLADY",
+            "verb": "asks",
+            "stem": "ask",
+            "object": "You okay?"
+            },
+            {
+            "subject": "SEAN",
+            "verb": "says",
+            "stem": "say",
+            "object": "Yeah"
+            }
+            ],
+            "total_SVOs": 5
+            },
+            "MOV-16": {
+                "SVO_relationships": [
+                {
+                "subject": "WILL",
+                "verb": "says",
+                "stem": "say",
+                "object": "Yeah"
+                },
+                {
+                "subject": "MORGAN",
+                "verb": "asks",
+                "stem": "ask",
+                "object": "How retarded..."
+                },
+                {
+                "subject": "CHUCKIE",
+                "verb": "says",
+                "stem": "say",
+                "object": "You got fired"
+                },
+                {
+                "subject": "MORGAN",
+                "verb": "says",
+                "stem": "say",
+                "object": "Yah, that was different"
+                },
+                {
+                "subject": "BILLY",
+                "verb": "says",
+                "stem": "say",
+                "object": "Least I work for a livin'"
+                },
+                {
+                "subject": "BILLY",
+                "verb": "asks",
+                "stem": "ask",
+                "object": "Why'd you get fired?"
+                }
+                ],
+                "total_SVOs": 6
+                },
+                "MOV-17": {
+                    "SVO_relationships": [
+                    {
+                    "subject": "WILL",
+                    "verb": "says",
+                    "stem": "say",
+                    "object": "Management was restructurin'"
+                    },
+                    {
+                    "subject": "Elliot",
+                    "verb": "says",
+                    "stem": "say",
+                    "object": "She's got the prettiest eyes..."
+                    },
+                    {
+                    "subject": "Lee",
+                    "verb": "exchanging",
+                    "stem": "exchange",
+                    "object": "greetings"
+                    }
+                    ],
+                    "total_SVOs": 3
+                    },
+                    
+                        "MOV-18": {
+                        "SVO_relationships": [
+                        {
+                        "subject": "Two more guests",
+                        "verb": "enter",
+                        "stem": "enter",
+                        "object": "the apartment"
+                        },
+                        {
+                        "subject": "Lee",
+                        "verb": "lightly hugs",
+                        "stem": "hug",
+                        "object": "one of the children"
+                        },
+                        {
+                        "subject": "Elliot",
+                        "verb": "says",
+                        "stem": "say",
+                        "object": "(V.O.) I just want to be alone with her..."
+                        },
+                        {
+                        "subject": "Lee",
+                        "verb": "walks",
+                        "stem": "walk",
+                        "object": "into the living room"
+                        },
+                        {
+                        "subject": "Elliot",
+                        "verb": "says",
+                        "stem": "say",
+                        "object": "(V.O.) ...and tell her how much I love her"
+                        }
+                        ],
+                        "total_SVOs": 5
+                        },
+                        "MOV-19": {
+                            "SVO_relationships": [
+                            {
+                            "subject": "Elliot",
+                            "verb": "says",
+                            "stem": "say",
+                            "object": "and take care of her"
+                            },
+                            {
+                            "subject": "Elliot",
+                            "verb": "says",
+                            "stem": "say",
+                            "object": "She's your wife's sister"
+                            },
+                            {
+                            "subject": "Elliot",
+                            "verb": "says",
+                            "stem": "say",
+                            "object": "(V.O.) I'm consumed by her"
+                            },
+                            {
+                            "subject": "Elliot",
+                            "verb": "says",
+                            "stem": "say",
+                            "object": "(V.O.) It's been months now"
+                            },
+                            {
+                            "subject": "Elliot",
+                            "verb": "says",
+                            "stem": "say",
+                            "object": "(V.O.) I dream about her"
+                            },
+                            {
+                            "subject": "Elliot",
+                            "verb": "says",
+                            "stem": "say",
+                            "object": "(V.O.) I- I, I think about her at the office"
+                            }
+                            ],
+                            "total_SVOs": 6
+                            },
+                            "MOV-20": {
+                                "SVO_relationships": [
+                                {
+                                "subject": "Lee",
+                                "verb": "passes",
+                                "stem": "pass",
+                                "object": "several other guests"
+                                },
+                                {
+                                "subject": "Lee",
+                                "verb": "gives",
+                                "stem": "give",
+                                "object": "a warm, brief hug"
+                                },
+                                {
+                                "subject": "Elliot",
+                                "verb": "says",
+                                "stem": "say",
+                                "object": "(V.O.) I hear myself mooning over you..."
+                                },
+                                {
+                                "subject": "Elliot",
+                                "verb": "is seen",
+                                "stem": "see",
+                                "object": "standing in a doorway"
+                                },
+                                {
+                                "subject": "Elliot",
+                                "verb": "has a conversation",
+                                "stem": "have",
+                                "object": "with a gesturing, rotund man"
+                                },
+                                {
+                                "subject": "Lee",
+                                "verb": "walks",
+                                "stem": "walk",
+                                "object": "between them"
+                                }
+                                ],
+                                "total_SVOs": 6
+                                },
+                                "MOV-21": {
+                                    "SVO_relationships": [
+                                    {
+                                    "subject": "Lee",
+                                    "verb": "walks",
+                                    "stem": "walk",
+                                    "object": "past me"
+                                    },
+                                    {
+                                    "subject": "Elliot",
+                                    "verb": "watches",
+                                    "stem": "watch",
+                                    "object": "Lee walk off"
+                                    },
+                                    {
+                                    "subject": "Elliot",
+                                    "verb": "returns",
+                                    "stem": "return",
+                                    "object": "to the conversation"
+                                    },
+                                    {
+                                    "subject": "Elliot",
+                                    "verb": "gazes",
+                                    "stem": "gaze",
+                                    "object": "at the offscreen Lee"
+                                    },
+                                    {
+                                    "subject": "Elliot",
+                                    "verb": "says",
+                                    "stem": "say",
+                                    "object": "(V.O.) ...Jesus, I, I thought I was gonna swoon!"
+                                    },
+                                    {
+                                    "subject": "Lee",
+                                    "verb": "puts down",
+                                    "stem": "put down",
+                                    "object": "the tray and drinks"
+                                    },
+                                    {
+                                    "subject": "Lee",
+                                    "verb": "walks",
+                                    "stem": "walk",
+                                    "object": "briskly and obliviously, past a"
+                                    }
+                                    ],
+                                    "total_SVOs": 7
+                                    },
+                                    "MOV-22": {
+                                        "SVO_relationships": [
+                                        {
+                                        "subject": "Elliot",
+                                        "verb": "watches",
+                                        "stem": "watch",
+                                        "object": "her, entranced"
+                                        },
+                                        
+                                        {
+                                        "subject": "The camera",
+                                        "verb": "stays with",
+                                        "stem": "stay with",
+                                        "object": "Elliot"
+                                        },
+                                        
+                                        {
+                                        "subject": "Hannah",
+                                        "verb": "walks up",
+                                        "stem": "walk",
+                                        "object": "behind the distracted Elliot"
+                                        },
+                                       
+                                        {
+                                        "subject": "Elliot",
+                                        "verb": "returns",
+                                        "stem": "return",
+                                        "object": "from his reveries with a start"
+                                        },
+                                       
+                                        {
+                                        "subject": "Elliot",
+                                        "verb": "responds",
+                                        "stem": "response",
+                                        "object": "Mm-hm?"
+                                        }
+                                        ],
+                                        "total_SVOs": 5
+                                        },
+                                        "MOV-23": {
+                                            "SVO_relationships": [
+                                            {
+                                            "subject": "Him",
+                                            "verb": "strike",
+                                            "stem": "strike",
+                                            "object": "me as a particularly icy and remorseless man"
+                                            },
+                                            
+                                            {
+                                            "subject": "Him",
+                                            "verb": "order",
+                                            "stem": "order",
+                                            "object": "you to serve two life sentences, back to back"
+                                            },
+                                            {
+                                            "subject": "Him",
+                                            "verb": "say",
+                                            "stem": "say",
+                                            "object": "I've learned my lesson"
+                                            },
+                                            {
+                                            "subject": "Him",
+                                            "verb": "claim",
+                                            "stem": "claim",
+                                            "object": "I'm a changed man"
+                                            },
+                                            {
+                                            "subject": "Him",
+                                            "verb": "assert",
+                                            "stem": "assert",
+                                            "object": "I'm no longer a danger to society"
+                                            },
+                                            {
+                                            "subject": "Him",
+                                            "verb": "swear",
+                                            "stem": "swear",
+                                            "object": "That's the God's honest truth"
+                                            }
+                                            ],
+                                            "total_SVOs": 6
+                                            },
+                                            "MOV-24": {
+                                                "SVO_relationships": [
+                                                {
+                                                "subject": "She",
+                                                "verb": "stands",
+                                                "stem": "stand",
+                                                "object": "at the entrance to the hallway"
+                                                },
+                                                {
+                                                "subject": "Hannah",
+                                                "verb": "walk",
+                                                "stem": "walk",
+                                                "object": "offscreen"
+                                                },
+                                                {
+                                                "subject": "Elliot",
+                                                "verb": "walk",
+                                                "stem": "walk",
+                                                "object": "offscreen, swallowing"
+                                                },
+                                                
+                                                {
+                                                "subject": "Hannah",
+                                                "verb": "remark",
+                                                "stem": "remark",
+                                                "object": "Ohhh, but I've eaten five of these"
+                                                },
+                                                {
+                                                "subject": "Elliot",
+                                                "verb": "suggest",
+                                                "stem": "suggest",
+                                                "object": "Holly, why don't you open your own restaurant?"
+                                                },
+                                                {
+                                                "subject": "Holly",
+                                                "verb": "respond",
+                                                "stem": "respond",
+                                                "object": "Mmm, we practically are"
+                                                }
+                                                ],
+                                                "total_SVOs": 6
+                                                },
+                                                "MOV-25": {
+                                                    "SVO_relationships": [
+                                                    {
+                                                    "subject": "Holly",
+                                                    "verb": "say",
+                                                    "stem": "say",
+                                                    "object": "restaurant, but..."
+                                                    },
+                                                    {
+                                                    "subject": "Hannah",
+                                                    "verb": "remark",
+                                                    "stem": "remark",
+                                                    "object": "What? You're kidding!"
+                                                    },
+                                                    {
+                                                    "subject": "Holly",
+                                                    "verb": "respond",
+                                                    "stem": "respond",
+                                                    "object": "No, no, we decided!"
+                                                    },
+                                                    {
+                                                    "subject": "Hannah",
+                                                    "verb": "say",
+                                                    "stem": "say",
+                                                    "object": "Perfect!"
+                                                    },
+                                                    {
+                                                    "subject": "Holly",
+                                                    "verb": "say",
+                                                    "stem": "say",
+                                                    "object": "I mean, we love to cook for our friends..."
+                                                    },
+                                                    {
+                                                    "subject": "Elliot",
+                                                    "verb": "overlapping Hannah",
+                                                    "stem": "overlapping Hannah",
+                                                    "object": "That's where"
+                                                    }
+                                                    ],
+                                                    "total_SVOs": 6
+                                                    },
+                                                    "MOV-26": {
+                                                        "SVO_relationships": [
+                                                        {
+                                                        "subject": "Elliot",
+                                                        "verb": "say",
+                                                        "stem": "say",
+                                                        "object": "your talent lies"
+                                                        },
+                                                        
+                                                        {
+                                                        "subject": "Holly",
+                                                        "verb": "say",
+                                                        "stem": "say",
+                                                        "object": "Get outta here"
+                                                        },
+                                                       
+                                                        {
+                                                        "subject": "Hannah",
+                                                        "verb": "say",
+                                                        "stem": "say",
+                                                        "object": "Oh, sure"
+                                                        },
+                                                        
+                                                        {
+                                                        "subject": "Elliot",
+                                                        "verb": "say",
+                                                        "stem": "say",
+                                                        "object": "I'm her husband! She tells me anything!"
+                                                        }
+                                                        ],
+                                                        "total_SVOs": 4
+                                                        },
+                                                        "MOV-27": {
+                                                            "SVO_relationships": [
+                                                            {
+                                                            "subject": "Holly",
+                                                            "verb": "say",
+                                                            "stem": "say",
+                                                            "object": "Hannah, I have to borrow some more money"
+                                                            },
+                                                            {
+                                                            "subject": "Hannah",
+                                                            "verb": "say",
+                                                            "stem": "say",
+                                                            "object": "Mmm, I never get upset over that. Mmm?"
+                                                            }
+                                                        ],
+                                                            "total_SVOs": 2
+                                                            },
+                                                            "MOV-28": {
+                                                                "SVO_relationships": [
+                                                                {
+                                                                "subject": "Hannah",
+                                                                "verb": "say",
+                                                                "stem": "say",
+                                                                "object": "Holly, please. Don't insult me"
+                                                                },
+                                                               
+                                                                {
+                                                                "subject": "Holly",
+                                                                "verb": "say",
+                                                                "stem": "say",
+                                                                "object": "Someday, I'll pay it all back"
+                                                                },
+                                                               
+                                                                {
+                                                                "subject": "Holly",
+                                                                "verb": "say",
+                                                                "stem": "say",
+                                                                "object": "Two thousand dollars"
+                                                                },
+                                                               
+                                                                {
+                                                                "subject": "Hannah",
+                                                                "verb": "say",
+                                                                "stem": "say",
+                                                                "object": "Uh-huh"
+                                                                },
+                                                                
+                                                                {
+                                                                "subject": "Holly",
+                                                                "verb": "say",
+                                                                "stem": "say",
+                                                                "object": "Hannah, I know it's a lot, but my friend April and I, we have this"
+                                                                }
+                                                                ],
+                                                                "total_SVOs": 5
+                                                                },
+                                                                "MOV-29": {
+                                                                    "SVO_relationships": [
+                                                                    {
+                                                                    "subject": "Holly",
+                                                                    "verb": "say",
+                                                                    "stem": "say",
+                                                                    "object": "You admit that we're great cooks, right?"
+                                                                    },
+                                                                    
+                                                                    {
+                                                                    "subject": "Holly",
+                                                                    "verb": "say",
+                                                                    "stem": "say",
+                                                                    "object": "Well, in order to get started, there's just a few things I have to buy... and some old debts I have outstanding"
+                                                                    },
+                                                                    
+                                                                    {
+                                                                    "subject": "Hannah",
+                                                                    "verb": "ask",
+                                                                    "stem": "ask",
+                                                                    "object": "Will you just tell me one thing?"
+                                                                    }
+                                                                    ],
+                                                                    "total_SVOs": 3
+                                                                    },
+                                                                    "MOV-30": {
+                                                                        "SVO_relationships": [
+                                                                        {
+                                                                        "subject": "Holly",
+                                                                        "verb": "swear",
+                                                                        "stem": "swear",
+                                                                        "object": "I swear"
+                                                                        },
+                                                                        {
+                                                                        "subject": "Holly",
+                                                                        "verb": "say",
+                                                                        "stem": "say",
+                                                                        "object": "We've already got some requests to do a few dinner parties"
+                                                                        },
+
+                                                                        {
+                                                                        "subject": "Holly",
+                                                                        "verb": "distractedly nibble",
+                                                                        "stem": "nibble",
+                                                                        "object": "an hors d'oeuvre"
+                                                                        }
+                                                                        ],
+                                                                        "total_SVOs": 3
+                                                                        },
+                                                                        "MOV-31": {
+                                                                            "SVO_relationships": [
+                                                                            
+                                                                            {
+                                                                            "subject": "Holly",
+                                                                            "verb": "say",
+                                                                            "stem": "say",
+                                                                            "object": "you know"
+                                                                            },
+                                                                            {
+                                                                            "subject": "Holly",
+                                                                            "verb": "say",
+                                                                            "stem": "say",
+                                                                            "object": "We both still go to auditions"
+                                                                            },
+                                                                            {
+                                                                            "subject": "Holly",
+                                                                            "verb": "say",
+                                                                            "stem": "say",
+                                                                            "object": "Something could turn up at any moment"
+                                                                            },
+                                                                            {
+                                                                            "subject": "Holly",
+                                                                            "verb": "say",
+                                                                            "stem": "say",
+                                                                            "object": "But the parties are at night, days are free, I can still take my acting class"
+                                                                            },
+                                                                            {
+                                                                            "subject": "Holly",
+                                                                            "verb": "say",
+                                                                            "stem": "say",
+                                                                            "object": "I haven't done drugs on a year"
+                                                                            },
+                                                                            {
+                                                                            "subject": "Holly",
+                                                                            "verb": "pop",
+                                                                            "stem": "pop",
+                                                                            "object": "another hors d'oeuvre into her mouth"
+                                                                            }
+                                                                            
+                                                                            ],
+                                                                            "total_SVOs": 6
+                                                                            },
+                                                                            "MOV-32": {
+                                                                                "SVO_relationships": [
+         
+                                                                                {
+                                                                                "subject": "Lee",
+                                                                                "verb": "walk",
+                                                                                "stem": "walk",
+                                                                                "object": "over to her sisters"
+                                                                                },
+                                                                                {
+                                                                                "subject": "Lee",
+                                                                                "verb": "put down",
+                                                                                "stem": "put down",
+                                                                                "object": "the glasses"
+                                                                                }
+                                                                                ],
+                                                                                "total_SVOs": 2
+                                                                                },
+                                                                                "MOV-33": {
+                                                                                    "SVO_relationships": [
+                                                                                    {
+                                                                                    "subject": "Hannah",
+                                                                                    "verb": "scoop out",
+                                                                                    "stem": "scoop out",
+                                                                                    "object": "seeds out of a cantaloupe"
+                                                                                    },
+                                                                                    {
+                                                                                    "subject": "Holly",
+                                                                                    "verb": "sip",
+                                                                                    "stem": "sip",
+                                                                                    "object": "her drink"
+                                                                                    },
+
+                                                                                    {
+                                                                                    "subject": "Hannah",
+                                                                                    "verb": "say",
+                                                                                    "stem": "say",
+                                                                                    "object": "Hey, have you tried Holly and her friend's shrimp puffs?"
+                                                                                    },
+                                                                                   
+                                                                                    {
+                                                                                    "subject": "Hannah",
+                                                                                    "verb": "touch",
+                                                                                    "stem": "touch",
+                                                                                    "object": "her arm"
+                                                                                    },
+                                                                                    {
+                                                                                    "subject": "Hannah",
+                                                                                    "verb": "say",
+                                                                                    "stem": "say",
+                                                                                    "object": "I think they're fantastic. You've outdone yourself."
+                                                                                    }
+                                                                                   
+                                                                                    ],
+                                                                                    "total_SVOs": 5
+                                                                                    },
+                                                                                    "MOV-34": {
+                                                                                        "SVO_relationships": [
+                                                              
+                                                                                       
+                                                                                        {
+                                                                                        "subject": "Hannah",
+                                                                                        "verb": "say",
+                                                                                        "stem": "say",
+                                                                                        "object": "Ohh?"
+                                                                                        },
+                                                                                        {
+                                                                                        "subject": "Holly",
+                                                                                        "verb": "overlap and say",
+                                                                                        "stem": "say",
+                                                                                        "object": "Uh-oh"
+                                                                                        },
+                                                                                        {
+                                                                                        "subject": "Lee",
+                                                                                        "verb": "continue and say",
+                                                                                        "stem": "say",
+                                                                                        "object": "...before she starts turning into Camille..."
+                                                                                        },
+                                                                                        {
+                                                                                        "subject": "Holly",
+                                                                                        "verb": "overlap and say",
+                                                                                        "stem": "say",
+                                                                                        "object": "Yeah, Mom's Camille when she gets up in the morning"
+                                                                                        },
+                                                                                        {
+                                                                                        "subject": "Lee",
+                                                                                        "verb": "turn and say",
+                                                                                        "stem": "say",
+                                                                                        "object": "At least she isn't drinking. Did you notice?"
+                                                                                        },
+                                                                                        {
+                                                                                        "subject": "Holly",
+                                                                                        "verb": "nod and say",
+                                                                                        "stem": "say",
+                                                                                        "object": "Mm-hm"
+                                                                                        },
+                                                                                        
+                                                                                        {
+                                                                                        "subject": "Holly",
+                                                                                        "verb": "nod and say",
+                                                                                        "stem": "say",
+                                                                                        "object": "Yeah"
+                                                                                        },
+                                                                                        {
+                                                                                        "subject": "Lee",
+                                                                                        "verb": "nod and say",
+                                                                                        "stem": "say",
+                                                                                        "object": "Yeah"
+                                                                                        }
+                                                                                        ],
+                                                                                        "total_SVOs": 8
+                                                                                        },
+
+                                                                                        "MOV-35": {
+                                                                                        "SVO_relationships": [
+                                                                                            {
+                                                                                              "subject": "LEE",
+                                                                                              "verb": "think",
+                                                                                              "stem": "think",
+                                                                                              "object": "she"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "HOLLY",
+                                                                                              "verb": "get",
+                                                                                              "stem": "get",
+                                                                                              "object": "garter belt"
+                                                                                            }
+                                                                                          ],
+                                                                                          "total_SVOs": 2
+                                                                                        },
+                                                                                        "MOV-36": {
+                                                                                        "SVO_relationships": [
+                                                                                            {
+                                                                                              "subject": "LEE",
+                                                                                              "verb": "ask",
+                                                                                              "stem": "ask",
+                                                                                              "object": "Elliot"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "Lee",
+                                                                                              "verb": "leave",
+                                                                                              "stem": "leave",
+                                                                                              "object": "kitchen"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "Frederick",
+                                                                                              "verb": "come",
+                                                                                              "stem": "come",
+                                                                                              "object": "her"
+                                                                                            }
+                                                                                          ],
+                                                                                          "total_SVOs": 3
+                                                                                        },
+
+                                                                                        "MOV-37": {
+                                                                                        "SVO_relationships": [
+                                                                                            {
+                                                                                              "subject": "Evan",
+                                                                                              "verb": "play",
+                                                                                              "stem": "play",
+                                                                                              "object": "piano"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "Hannah",
+                                                                                              "verb": "invite",
+                                                                                              "stem": "invite",
+                                                                                              "object": "Phil Gammage"
+                                                                                            }
+                                                                                          ],
+                                                                                          "total_SVOs": 2
+                                                                                        },
+                                                                                        "MOV-38": {
+                                                                                        "SVO_relationships": [
+                                                                                            {
+                                                                                              "subject": "Holly",
+                                                                                              "verb": "be",
+                                                                                              "stem": "be",
+                                                                                              "object": "loser"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "Holly",
+                                                                                              "verb": "remind",
+                                                                                              "stem": "remind",
+                                                                                              "object": "Ichabod Crane"
+                                                                                            }
+                                                                                          ],
+                                                                                          "total_SVOs": 2
+                                                                                        },
+
+                                                                                        "MOV-39": {
+                                                                                        "SVO_relationships": [
+                                                                                            {
+                                                                                              "subject": "his Adam's apple",
+                                                                                              "verb": "keep",
+                                                                                              "stem": "keep",
+                                                                                              "object": "jumping"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "he",
+                                                                                              "verb": "get",
+                                                                                              "stem": "get",
+                                                                                              "object": "good job"
+                                                                                            }
+                                                                                          ],
+                                                                                          "total_SVOs": 2
+                                                                                        },
+
+                                                                                        "MOV-40": {
+                                                                                        "SVO_relationships": [
+                                                                                            {
+                                                                                              "subject": "his Adam's apple",
+                                                                                              "verb": "keep",
+                                                                                              "stem": "keep",
+                                                                                              "object": "jumping"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "he",
+                                                                                              "verb": "get",
+                                                                                              "stem": "get",
+                                                                                              "object": "good job"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "HOLLY",
+                                                                                              "verb": "strike",
+                                                                                              "stem": "strike",
+                                                                                              "object": "match"
+                                                                                            }
+                                                                                          ],
+                                                                                          "total_SVOs": 3
+                                                                                        },
+
+                                                                                        "MOV-41": {
+
+                                                                                        "SVO_relationships": [
+                                                                                            {
+                                                                                              "subject": "I",
+                                                                                              "verb": "met",
+                                                                                              "stem": "meet",
+                                                                                              "object": "Phil"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "he",
+                                                                                              "verb": "look",
+                                                                                              "stem": "look",
+                                                                                              "object": "like Ichabod Crane"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "Holly",
+                                                                                              "verb": "push",
+                                                                                              "stem": "push",
+                                                                                              "object": "accusing finger"
+                                                                                            }
+                                                                                          ],
+                                                                                          "total_SVOs": 3
+                                                                                        },
+
+                                                                                        "MOV-42": {
+                                                                                        "SVO_relationships": [
+                                                                                            {
+                                                                                              "subject": "I",
+                                                                                              "verb": "can't",
+                                                                                              "stem": "believe",
+                                                                                              "object": "it"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "I",
+                                                                                              "verb": "like",
+                                                                                              "stem": "like",
+                                                                                              "object": "him"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "she",
+                                                                                              "verb": "take",
+                                                                                              "stem": "take",
+                                                                                              "object": "apples"
+                                                                                            }
+                                                                                          ],
+                                                                                          "total_SVOs": 3
+                                                                                        },
+                                                                                        "MOV-43": {
+                                                                                        "SVO_relationships": [
+                                                                                            {
+                                                                                              "subject": "you",
+                                                                                              "verb": "know",
+                                                                                              "stem": "know",
+                                                                                              "object": "this"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "you",
+                                                                                              "verb": "be",
+                                                                                              "stem": "careful",
+                                                                                              "object": "those"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "Hannah",
+                                                                                              "verb": "hand",
+                                                                                              "stem": "hand",
+                                                                                              "object": "her"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "she",
+                                                                                              "verb": "stick",
+                                                                                              "stem": "stick",
+                                                                                              "object": "her"
+                                                                                            }
+                                                                                          ],
+                                                                                          "total_SVOs": 4
+                                                                                        },
+                                                                                        "MOV-44": {
+                                                                                            "SVO_relationships": [
+                                                                                              {
+                                                                                                "subject": "it",
+                                                                                                "verb": "be",
+                                                                                                "stem": "must",
+                                                                                                "object": "here"
+                                                                                              },
+                                                                                              {
+                                                                                                "subject": "I",
+                                                                                                "verb": "love",
+                                                                                                "stem": "love",
+                                                                                                "object": "that"
+                                                                                              }
+                                                                                            ],
+                                                                                            "total_SVOs": 2
+                                                                                          },
+                                                                                          "MOV-45": {
+                                                                                          "SVO_relationships": [
+                                                                                            {
+                                                                                              "subject": "Frederick",
+                                                                                              "verb": "come",
+                                                                                              "stem": "come",
+                                                                                              "object": "none"
+                                                                                            },
+                                                                                            {
+                                                                                              "subject": "he",
+                                                                                              "verb": "sold",
+                                                                                              "stem": "sell",
+                                                                                              "object": "none"
+                                                                                            }
+                                                                                          ],
+                                                                                          "total_SVOs": 2
+                                                                                        },
+                                                                                        "MOV-46": {
+                                                                                          "SVO_relationships": [
+                                                                                          {
+                                                                                          "subject": "Lee",
+                                                                                          "verb": "walks",
+                                                                                          "stem": "walk",
+                                                                                          "object": "room"
+                                                                                          },
+                                                                                          {
+                                                                                          "subject": "Lee",
+                                                                                          "verb": "flips",
+                                                                                          "stem": "flip",
+                                                                                          "object": "book"
+                                                                                          },
+                                                                                          {
+                                                                                          "subject": "Lee",
+                                                                                          "verb": "talks",
+                                                                                          "stem": "talk",
+                                                                                          "object": "offscreen Elliot"
+                                                                                          },
+                                                                                          {
+                                                                                          "subject": "Lee",
+                                                                                          "verb": "puts",
+                                                                                          "stem": "put",
+                                                                                          "object": "book"
+                                                                                          }
+                                                                                          ],
+                                                                                          "total_SVOs": 4
+                                                                                          },
+                                                                                          "MOV-47": {
+                                                                                            "SVO_relationships": [
+                                                                                            {
+                                                                                            "subject": "She",
+                                                                                            "verb": "looks",
+                                                                                            "stem": "look",
+                                                                                            "object": "offscreen Elliot"
+                                                                                            },
+                                                                                           
+                                                                                            {
+                                                                                            "subject": "Elliot",
+                                                                                            "verb": "walks",
+                                                                                            "stem": "walk",
+                                                                                            "object": "room"
+                                                                                            },
+                                                                                            {
+                                                                                            "subject": "Lee",
+                                                                                            "verb": "was thinking",
+                                                                                            "stem": "think",
+                                                                                            "object": "courses at Columbia"
+                                                                                            },
+                                                                                            {
+                                                                                            "subject": "Lee",
+                                                                                            "verb": "is",
+                                                                                            "stem": "be",
+                                                                                            "object": "unemployed"
+                                                                                            }
+                                                                                            ],
+                                                                                            "total_SVOs": 4
+                                                                                            },
+                                                                                            "MOV-48": {
+                                                                                              "SVO_relationships": [
+                                                                                              {
+                                                                                              "subject": "Elliot",
+                                                                                              "verb": "parts",
+                                                                                              "stem": "part",
+                                                                                              "object": "hanging curtain"
+                                                                                              },
+                                                                                              {
+                                                                                              "subject": "Elliot",
+                                                                                              "verb": "looks",
+                                                                                              "stem": "look",
+                                                                                              "object": "offscreen Lee"
+                                                                                              },
+                                                                                              {
+                                                                                              "subject": "Lee",
+                                                                                              "verb": "sits",
+                                                                                              "stem": "sit",
+                                                                                              "object": "bed"
+                                                                                              },
+                                                                                              {
+                                                                                              "subject": "Elliot",
+                                                                                              "verb": "reaches",
+                                                                                              "stem": "reach",
+                                                                                              "object": "stereo shelf"
+                                                                                              },
+                                                                                              {
+                                                                                              "subject": "Elliot",
+                                                                                              "verb": "grabs",
+                                                                                              "stem": "grab",
+                                                                                              "object": "bottle of antihistamines"
+                                                                                              },
+                                                                                             
+                                                                                             
+                                                                                              {
+                                                                                              "subject": "Elliot",
+                                                                                              "verb": "sits",
+                                                                                              "stem": "sit",
+                                                                                              "object": "footstool"
+                                                                                              }
+                                                                                              ],
+                                                                                              "total_SVOs": 6
+
+                                                                                              },
+
+                                                                                              "MOV-49": {
+                                                                                                "SVO_relationships": [
+                                                                                               
+                                                                                                {
+                                                                                                "subject": "Lee",
+                                                                                                "verb": "takes",
+                                                                                                "stem": "take",
+                                                                                                "object": "bottle of pills"
+                                                                                                },
+                                                                                                {
+                                                                                                "subject": "Elliot",
+                                                                                                "verb": "call",
+                                                                                                "stem": "call",
+                                                                                                "object": "Lee"
+                                                                                                },
+                                                                                               
+                                                                                                
+                                                                                                {
+                                                                                                "subject": "Elliot",
+                                                                                                "verb": "turns",
+                                                                                                "stem": "turn",
+                                                                                                "object": "direction of his wife's voice"
+                                                                                                }
+                                                                                                ],
+                                                                                                "total_SVOs": 3
+                                                                                                },
+                                                                                                "MOV-50": {
+                                                                                                  "SVO_relationships": [
+                                                                                                  {
+                                                                                                  "subject": "Hannah",
+                                                                                                  "verb": "enters",
+                                                                                                  "stem": "enter",
+                                                                                                  "object": "bedroom"
+                                                                                                  },
+                                                                                                  {
+                                                                                                  "subject": "Lee",
+                                                                                                  "verb": "says",
+                                                                                                  "stem": "say",
+                                                                                                  "object": "'great'"
+                                                                                                  },
+                                                                                                  {
+                                                                                                  "subject": "Hannah",
+                                                                                                  "verb": "calls out",
+                                                                                                  "stem": "call",
+                                                                                                  "object": "'You look so beautiful.'"
+                                                                                                  },
+                                                                                                  {
+                                                                                                  "subject": "Lee",
+                                                                                                  "verb": "says",
+                                                                                                  "stem": "say",
+                                                                                                  "object": "'Come on.'"
+                                                                                                  },
+                                                                                                  {
+                                                                                                  "subject": "Hannah",
+                                                                                                  "verb": "agrees",
+                                                                                                  "stem": "agree",
+                                                                                                  "object": "'Doesn't she look pretty?'"
+                                                                                                  },
+                                                                                                  {
+                                                                                                  "subject": "Lee",
+                                                                                                  "verb": "continues",
+                                                                                                  "stem": "continue",
+                                                                                                  "object": "'You bumped into my...'"
+                                                                                                  },
+                                                                                                  {
+                                                                                                  "subject": "Elliot",
+                                                                                                  "verb": "agrees",
+                                                                                                  "stem": "agree",
+                                                                                                  "object": "'Yeah.'"
+                                                                                                  },
+                                                                                                  {
+                                                                                                  "subject": "Lee",
+                                                                                                  "verb": "gestures",
+                                                                                                  "stem": "gesture",
+                                                                                                  "object": "'ex-husband on the street' and 'he's just as crazy as ever'"
+                                                                                                  }
+                                                                                                  ],
+                                                                                                  "total_SVOs": 8
+                                                                                                  }
+                                                                                                }
+
+  
+
+
+
+
+
+    
+
+

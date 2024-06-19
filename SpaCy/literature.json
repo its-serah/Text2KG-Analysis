@@ -1,0 +1,1080 @@
+{
+    "Lit-1": {
+        "svo_relationships": [
+            {
+                "subject": "I",
+                "verb": "get",
+                "stem": "get",
+                "object": "them"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-2": {
+        "svo_relationships": [
+            {
+                "subject": "voice",
+                "verb": "saying",
+                "stem": "say",
+                "object": "Arizona"
+            },
+            {
+                "subject": "I",
+                "verb": "tugged",
+                "stem": "tug",
+                "object": "veil"
+            },
+            {
+                "subject": "none",
+                "verb": "visited",
+                "stem": "visit",
+                "object": "him"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-3": {
+        "svo_relationships": [
+            {
+                "subject": "I",
+                "verb": "had",
+                "stem": "have",
+                "object": "yearning"
+            },
+            {
+                "subject": "Ishould",
+                "verb": "take",
+                "stem": "take",
+                "object": "mourning"
+            },
+            {
+                "subject": "he",
+                "verb": "taught",
+                "stem": "teach",
+                "object": "me"
+            },
+            {
+                "subject": "He",
+                "verb": "taught",
+                "stem": "teach",
+                "object": "me"
+            },
+            {
+                "subject": "he",
+                "verb": "knew",
+                "stem": "know",
+                "object": "which"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Lit-4": {
+        "svo_relationships": [
+            {
+                "subject": "Tomolillo",
+                "verb": "imitated",
+                "stem": "imitate",
+                "object": "her"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-5": {
+        "svo_relationships": [
+            {
+                "subject": "I",
+                "verb": "told",
+                "stem": "tell",
+                "object": "mother"
+            },
+            {
+                "subject": "woman",
+                "verb": "imitating",
+                "stem": "imitate",
+                "object": "you"
+            },
+            {
+                "subject": "She",
+                "verb": "paying",
+                "stem": "pay",
+                "object": "attention"
+            },
+            {
+                "subject": "Tomolillo",
+                "verb": "matched",
+                "stem": "match",
+                "object": "thetips"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Lit-6": {
+        "svo_relationships": [
+            {
+                "subject": "ofthem",
+                "verb": "had",
+                "stem": "have",
+                "object": "name"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-7": {
+        "svo_relationships": [
+            {
+                "subject": "onlyI",
+                "verb": "tell",
+                "stem": "tell",
+                "object": "mother"
+            },
+            {
+                "subject": "they",
+                "verb": "taking",
+                "stem": "take",
+                "object": "word"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-8": {
+        "svo_relationships": [
+            {
+                "subject": "I",
+                "verb": "told",
+                "stem": "tell",
+                "object": "her"
+            },
+            {
+                "subject": "You",
+                "verb": "get",
+                "stem": "get",
+                "object": "me"
+            },
+            {
+                "subject": "I",
+                "verb": "persuade",
+                "stem": "persuade",
+                "object": "mother"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-9": {
+        "svo_relationships": [
+            {
+                "subject": "she",
+                "verb": "laid",
+                "stem": "lay",
+                "object": "hand"
+            },
+            {
+                "subject": "Negro",
+                "verb": "wheeled",
+                "stem": "wheel",
+                "object": "cart"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-10": {
+        "svo_relationships": [
+            {
+                "subject": "that",
+                "verb": "brought",
+                "stem": "bring",
+                "object": "food"
+            },
+            {
+                "subject": "she",
+                "verb": "telling",
+                "stem": "tell",
+                "object": "him"
+            },
+            {
+                "subject": "he",
+                "verb": "carried",
+                "stem": "carry",
+                "object": "tray"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-11": {
+        "svo_relationships": [
+            {
+                "subject": "woman",
+                "verb": "left",
+                "stem": "leave",
+                "object": "room"
+            },
+            {
+                "subject": "Negro",
+                "verb": "banging",
+                "stem": "bang",
+                "object": "tureens"
+            },
+            {
+                "subject": "Nobody",
+                "verb": "made",
+                "stem": "make",
+                "object": "move"
+            },
+            {
+                "subject": "any",
+                "verb": "take",
+                "stem": "take",
+                "object": "lids"
+            },
+            {
+                "subject": "Tomolillo",
+                "verb": "taken",
+                "stem": "take",
+                "object": "lids"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Lit-12": {
+        "svo_relationships": [
+            {
+                "subject": "I",
+                "verb": "saw",
+                "stem": "see",
+                "object": "cadaver"
+            },
+            {
+                "subject": "my",
+                "verb": "seeing",
+                "stem": "see",
+                "object": "place"
+            },
+            {
+                "subject": "I",
+                "verb": "carrying",
+                "stem": "carry",
+                "object": "headaround"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-13": {
+        "svo_relationships": [
+            {
+                "subject": "they",
+                "verb": "sent",
+                "stem": "send",
+                "object": "home"
+            },
+            {
+                "subject": "I",
+                "verb": "lifted",
+                "stem": "lift",
+                "object": "lid"
+            },
+            {
+                "subject": "I",
+                "verb": "dished",
+                "stem": "dish",
+                "object": "myself"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-14": {
+        "svo_relationships": [
+            {
+                "subject": "I",
+                "verb": "seen",
+                "stem": "see",
+                "object": "her"
+            },
+            {
+                "subject": "who",
+                "verb": "took",
+                "stem": "take",
+                "object": "care"
+            },
+            {
+                "subject": "woman",
+                "verb": "snatched",
+                "stem": "snatch",
+                "object": "tureen"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-15": {
+        "svo_relationships": [
+            {
+                "subject": "she",
+                "verb": "returned",
+                "stem": "return",
+                "object": "most"
+            },
+            {
+                "subject": "Mole",
+                "verb": "led",
+                "stem": "lead",
+                "object": "Mole"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-16": {
+        "svo_relationships": [
+            {
+                "subject": "peoplehad",
+                "verb": "found",
+                "stem": "find",
+                "object": "themselves"
+            },
+            {
+                "subject": "chance",
+                "verb": "had",
+                "stem": "have",
+                "object": "face"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-17": {
+        "svo_relationships": [
+            {
+                "subject": "he",
+                "verb": "exudedan",
+                "stem": "exudedan",
+                "object": "ardour"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-18": {
+        "svo_relationships": [
+            {
+                "subject": "sheepskinthat",
+                "verb": "kept",
+                "stem": "keep",
+                "object": "him"
+            },
+            {
+                "subject": "travellerhad",
+                "verb": "endured",
+                "stem": "endure",
+                "object": "rigour"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-19": {
+        "svo_relationships": [
+            {
+                "subject": "people",
+                "verb": "recognize",
+                "stem": "recognize",
+                "object": "which"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-20": {
+        "svo_relationships": [
+            {
+                "subject": "he",
+                "verb": "cradled",
+                "stem": "cradle",
+                "object": "bundle"
+            },
+            {
+                "subject": "He",
+                "verb": "wore",
+                "stem": "wear",
+                "object": "pair"
+            },
+            {
+                "subject": "travellingcompanion",
+                "verb": "took",
+                "stem": "take",
+                "object": "this"
+            },
+            {
+                "subject": "which",
+                "verb": "oftenbetrays",
+                "stem": "oftenbetray",
+                "object": "delight"
+            },
+            {
+                "subject": "he",
+                "verb": "jerked",
+                "stem": "jerk",
+                "object": "shoulders"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Lit-21": {
+        "svo_relationships": [
+            {
+                "subject": "I",
+                "verb": "had",
+                "stem": "have",
+                "object": "noidea"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-22": {
+        "svo_relationships": [
+            {
+                "subject": "man",
+                "verb": "smirked",
+                "stem": "smirk",
+                "object": "question"
+            },
+            {
+                "subject": "they",
+                "verb": "cure",
+                "stem": "cure",
+                "object": "you"
+            },
+            {
+                "subject": "I",
+                "verb": "thought",
+                "stem": "think",
+                "object": "much"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-23": {
+        "svo_relationships": [
+            {
+                "subject": "who",
+                "verb": "wanted",
+                "stem": "want",
+                "object": "nothing"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-24": {
+        "svo_relationships": [
+            {
+                "subject": "they",
+                "verb": "suck",
+                "stem": "suck",
+                "object": "lifeblood"
+            },
+            {
+                "subject": "doctor",
+                "verb": "gave",
+                "stem": "give",
+                "object": "hadto"
+            },
+            {
+                "subject": "he",
+                "verb": "supported",
+                "stem": "support",
+                "object": "me"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-25": {
+        "svo_relationships": [
+            {
+                "subject": "who",
+                "verb": "funded",
+                "stem": "fund",
+                "object": "me"
+            },
+            {
+                "subject": "I",
+                "verb": "wrote",
+                "stem": "write",
+                "object": "spouse"
+            },
+            {
+                "subject": "that",
+                "verb": "bundle",
+                "stem": "bundle",
+                "object": "all"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-26": {
+        "svo_relationships": [
+            {
+                "subject": "youngman",
+                "verb": "made",
+                "stem": "make",
+                "object": "bones"
+            },
+            {
+                "subject": "they",
+                "verb": "had",
+                "stem": "have",
+                "object": "fill"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-27": {
+        "svo_relationships": [
+            {
+                "subject": "sheep",
+                "verb": "enteredthrough",
+                "stem": "enteredthrough",
+                "object": "gate"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-28": {
+        "svo_relationships": [
+            {
+                "subject": "He",
+                "verb": "swept",
+                "stem": "sweep",
+                "object": "floor"
+            },
+            {
+                "subject": "he",
+                "verb": "justfinished",
+                "stem": "justfinishe",
+                "object": "reading"
+            },
+            {
+                "subject": "He",
+                "verb": "told",
+                "stem": "tell",
+                "object": "himself"
+            },
+            {
+                "subject": "he",
+                "verb": "see",
+                "stem": "see",
+                "object": "starsthrough"
+            },
+            {
+                "subject": "He",
+                "verb": "had",
+                "stem": "have",
+                "object": "night"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Lit-29": {
+        "svo_relationships": [
+            {
+                "subject": "energy",
+                "verb": "bound",
+                "stem": "bind",
+                "object": "life"
+            },
+            {
+                "subject": "he",
+                "verb": "spent",
+                "stem": "spend",
+                "object": "years"
+            },
+            {
+                "subject": "that",
+                "verb": "theyknow",
+                "stem": "theyknow",
+                "object": "schedule"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-30": {
+        "svo_relationships": [
+            {
+                "subject": "The",
+                "verb": "boyprodded",
+                "stem": "boyprodde",
+                "object": "them"
+            },
+            {
+                "subject": "he",
+                "verb": "said",
+                "stem": "say",
+                "object": "what"
+            },
+            {
+                "subject": "he",
+                "verb": "read",
+                "stem": "read",
+                "object": "them"
+            },
+            {
+                "subject": "that",
+                "verb": "made",
+                "stem": "make",
+                "object": "impressionon"
+            },
+            {
+                "subject": "he",
+                "verb": "tell",
+                "stem": "tell",
+                "object": "them"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Lit-31": {
+        "svo_relationships": [
+            {
+                "subject": "friendhad",
+                "verb": "told",
+                "stem": "tell",
+                "object": "boy"
+            },
+            {
+                "subject": "he",
+                "verb": "taken",
+                "stem": "take",
+                "object": "sheep"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-32": {
+        "svo_relationships": [
+            {
+                "subject": "BOY",
+                "verb": "TOLD",
+                "stem": "tell",
+                "object": "merchant"
+            },
+            {
+                "subject": "man",
+                "verb": "asked",
+                "stem": "ask",
+                "object": "shepherd"
+            },
+            {
+                "subject": "that",
+                "verb": "recalled",
+                "stem": "recall",
+                "object": "conquerors"
+            },
+            {
+                "subject": "I",
+                "verb": "learn",
+                "stem": "learn",
+                "object": "more"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Lit-33": {
+        "svo_relationships": [
+            {
+                "subject": "she",
+                "verb": "told",
+                "stem": "tell",
+                "object": "him"
+            },
+            {
+                "subject": "shepherd",
+                "verb": "told",
+                "stem": "tell",
+                "object": "her"
+            },
+            {
+                "subject": "boy",
+                "verb": "mumbled",
+                "stem": "mumble",
+                "object": "answer"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-34": {
+        "svo_relationships": [
+            {
+                "subject": "I",
+                "verb": "having",
+                "stem": "have",
+                "object": "areal"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-35": {
+        "svo_relationships": [
+            {
+                "subject": "himself",
+                "verb": "wishing",
+                "stem": "wish",
+                "object": "end"
+            },
+            {
+                "subject": "he",
+                "verb": "feeling",
+                "stem": "feel",
+                "object": "something"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-36": {
+        "svo_relationships": [
+            {
+                "subject": "boy",
+                "verb": "shear",
+                "stem": "shear",
+                "object": "sheep"
+            },
+            {
+                "subject": "girl",
+                "verb": "forgotten",
+                "stem": "forget",
+                "object": "him"
+            },
+            {
+                "subject": "I",
+                "verb": "know",
+                "stem": "know",
+                "object": "girls"
+            },
+            {
+                "subject": "it",
+                "verb": "did",
+                "stem": "do",
+                "object": "matter"
+            },
+            {
+                "subject": "he",
+                "verb": "knew",
+                "stem": "know",
+                "object": "that"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Lit-37": {
+        "svo_relationships": [
+            {
+                "subject": "salesmen",
+                "verb": "found",
+                "stem": "find",
+                "object": "town"
+            },
+            {
+                "subject": "them",
+                "verb": "forget",
+                "stem": "forget",
+                "object": "joys"
+            },
+            {
+                "subject": "shepherd",
+                "verb": "urged",
+                "stem": "urge",
+                "object": "sheep"
+            },
+            {
+                "subject": "that",
+                "verb": "concerned",
+                "stem": "concern",
+                "object": "sheep"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Lit-38": {
+        "svo_relationships": [
+            {
+                "subject": "sheep",
+                "verb": "enteredthrough",
+                "stem": "enteredthrough",
+                "object": "gate"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Lit-39": {
+        "svo_relationships": [
+            {
+                "subject": "He",
+                "verb": "swept",
+                "stem": "sweep",
+                "object": "floor"
+            },
+            {
+                "subject": "he",
+                "verb": "justfinished",
+                "stem": "justfinishe",
+                "object": "reading"
+            },
+            {
+                "subject": "He",
+                "verb": "told",
+                "stem": "tell",
+                "object": "himself"
+            },
+            {
+                "subject": "he",
+                "verb": "see",
+                "stem": "see",
+                "object": "starsthrough"
+            },
+            {
+                "subject": "He",
+                "verb": "had",
+                "stem": "have",
+                "object": "night"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Lit-40": {
+        "svo_relationships": [
+            {
+                "subject": "energy",
+                "verb": "bound",
+                "stem": "bind",
+                "object": "life"
+            },
+            {
+                "subject": "he",
+                "verb": "spent",
+                "stem": "spend",
+                "object": "years"
+            },
+            {
+                "subject": "that",
+                "verb": "theyknow",
+                "stem": "theyknow",
+                "object": "schedule"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-41": {
+        "svo_relationships": [
+            {
+                "subject": "The",
+                "verb": "boyprodded",
+                "stem": "boyprodde",
+                "object": "them"
+            },
+            {
+                "subject": "he",
+                "verb": "said",
+                "stem": "say",
+                "object": "what"
+            },
+            {
+                "subject": "he",
+                "verb": "read",
+                "stem": "read",
+                "object": "them"
+            },
+            {
+                "subject": "that",
+                "verb": "made",
+                "stem": "make",
+                "object": "impressionon"
+            },
+            {
+                "subject": "he",
+                "verb": "tell",
+                "stem": "tell",
+                "object": "them"
+            }
+        ],
+        "total_SVOs": 5
+    },
+    "Lit-42": {
+        "svo_relationships": [
+            {
+                "subject": "friendhad",
+                "verb": "told",
+                "stem": "tell",
+                "object": "boy"
+            },
+            {
+                "subject": "he",
+                "verb": "taken",
+                "stem": "take",
+                "object": "sheep"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-43": {
+        "svo_relationships": [
+            {
+                "subject": "BOY",
+                "verb": "TOLD",
+                "stem": "tell",
+                "object": "merchant"
+            },
+            {
+                "subject": "man",
+                "verb": "asked",
+                "stem": "ask",
+                "object": "shepherd"
+            },
+            {
+                "subject": "that",
+                "verb": "recalled",
+                "stem": "recall",
+                "object": "conquerors"
+            },
+            {
+                "subject": "I",
+                "verb": "learn",
+                "stem": "learn",
+                "object": "more"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "Lit-44": {
+        "svo_relationships": [
+            {
+                "subject": "she",
+                "verb": "told",
+                "stem": "tell",
+                "object": "him"
+            },
+            {
+                "subject": "shepherd",
+                "verb": "told",
+                "stem": "tell",
+                "object": "her"
+            },
+            {
+                "subject": "boy",
+                "verb": "mumbled",
+                "stem": "mumble",
+                "object": "answer"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-45": {
+        "svo_relationships": [
+            {
+                "subject": "she",
+                "verb": "afford",
+                "stem": "afford",
+                "object": "magazine"
+            },
+            {
+                "subject": "she",
+                "verb": "gets",
+                "stem": "get",
+                "object": "ascholarship"
+            },
+            {
+                "subject": "I",
+                "verb": "steering",
+                "stem": "steer",
+                "object": "anything"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-46": {
+        "svo_relationships": [
+            {
+                "subject": "himself",
+                "verb": "wishing",
+                "stem": "wish",
+                "object": "end"
+            },
+            {
+                "subject": "he",
+                "verb": "feeling",
+                "stem": "feel",
+                "object": "something"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-47": {
+        "svo_relationships": [
+            {
+                "subject": "theymight",
+                "verb": "have",
+                "stem": "have",
+                "object": "way"
+            },
+            {
+                "subject": "I",
+                "verb": "believe",
+                "stem": "believe",
+                "object": "infallibility"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-48": {
+        "svo_relationships": [
+            {
+                "subject": "anything",
+                "verb": "see",
+                "stem": "see",
+                "object": "this"
+            },
+            {
+                "subject": "you",
+                "verb": "knelt",
+                "stem": "knelt",
+                "object": "much"
+            },
+            {
+                "subject": "I",
+                "verb": "asked",
+                "stem": "ask",
+                "object": "mother"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "Lit-49": {
+        "svo_relationships": [
+            {
+                "subject": "they",
+                "verb": "take",
+                "stem": "take",
+                "object": "somebody"
+            },
+            {
+                "subject": "I",
+                "verb": "want",
+                "stem": "want",
+                "object": "priest"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Lit-50": {
+        "svo_relationships": [
+            {
+                "subject": "I",
+                "verb": "throw",
+                "stem": "throw",
+                "object": "myself"
+            },
+            {
+                "subject": "Catholics",
+                "verb": "take",
+                "stem": "take",
+                "object": "nuns"
+            },
+            {
+                "subject": "Aunt",
+                "verb": "made",
+                "stem": "make",
+                "object": "joke"
+            }
+        ],
+        "total_SVOs": 3
+    }
+}

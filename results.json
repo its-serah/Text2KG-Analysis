@@ -1,0 +1,106 @@
+{
+  "totalSVOs": {
+    "literature.json": {
+      "GPT-4": 284,
+      "SpaCy": 138,
+      "NLTK": 25,
+      "LLAMA3": 292
+    },
+    "medical-articles.json": {
+      "GPT-4": 264,
+      "SpaCy": 75,
+      "NLTK": 33,
+      "LLAMA3": 307
+    },
+    "moviescripts.json": {
+      "GPT-4": 282,
+      "SpaCy": 142,
+      "NLTK": 13,
+      "LLAMA3": 235
+    },
+    "news-press-releases.json": {
+      "GPT-4": 239,
+      "SpaCy": 106,
+      "NLTK": 70,
+      "LLAMA3": 234
+    }
+  },
+  "commonVerbs": {
+    "literature.json": {
+      "GPT-4": 284,
+      "SpaCy": 6,
+      "NLTK": 0,
+      "LLAMA3": 123
+    },
+    "medical-articles.json": {
+      "GPT-4": 264,
+      "SpaCy": 1,
+      "NLTK": 0,
+      "LLAMA3": 106
+    },
+    "moviescripts.json": {
+      "GPT-4": 282,
+      "SpaCy": 4,
+      "NLTK": 0,
+      "LLAMA3": 63
+    },
+    "news-press-releases.json": {
+      "GPT-4": 239,
+      "SpaCy": 4,
+      "NLTK": 1,
+      "LLAMA3": 96
+    }
+  },
+  "commonStem": {
+    "literature.json": {
+      "GPT-4": 284,
+      "SpaCy": 12,
+      "NLTK": 4,
+      "LLAMA3": 163
+    },
+    "medical-articles.json": {
+      "GPT-4": 264,
+      "SpaCy": 2,
+      "NLTK": 8,
+      "LLAMA3": 152
+    },
+    "moviescripts.json": {
+      "GPT-4": 282,
+      "SpaCy": 8,
+      "NLTK": 4,
+      "LLAMA3": 103
+    },
+    "news-press-releases.json": {
+      "GPT-4": 239,
+      "SpaCy": 5,
+      "NLTK": 15,
+      "LLAMA3": 122
+    }
+  },
+  "commonObject": {
+    "literature.json": {
+      "GPT-4": 356,
+      "SpaCy": 1,
+      "NLTK": 0,
+      "LLAMA3": 156
+    },
+    "medical-articles.json": {
+      "GPT-4": 344,
+      "SpaCy": 0,
+      "NLTK": 0,
+      "LLAMA3": 77
+    },
+    "moviescripts.json": {
+      "GPT-4": 318,
+      "SpaCy": 1,
+      "NLTK": 1,
+      "LLAMA3": 60
+    },
+    "news-press-releases.json": {
+      "GPT-4": 343,
+      "SpaCy": 0,
+      "NLTK": 0,
+      "LLAMA3": 77
+    }
+  }
+}

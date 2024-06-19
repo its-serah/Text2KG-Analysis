@@ -1,0 +1,140 @@
+{
+    "Mov-1": {
+        "SVO_relationships": [
+            {
+                "subject": "The girl",
+                "verb": "be",
+                "stem": "be",
+                "object": "SUMMER FINN"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-5": {
+        "SVO_relationships": [
+            {
+                "subject": "VIOLENT Whatever demons",
+                "verb": "be",
+                "stem": "be",
+                "object": "Will"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-6": {
+        "SVO_relationships": [
+            {
+                "subject": "The cop",
+                "verb": "hold",
+                "stem": "hold",
+                "object": "SLAMS"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-8": {
+        "SVO_relationships": [
+            {
+                "subject": "Management",
+                "verb": "be",
+                "stem": "be",
+                "object": "restructurin"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-12": {
+        "SVO_relationships": [
+            {
+                "subject": "the world",
+                "verb": "be",
+                "stem": "be",
+                "object": "an awful place"
+            },
+            {
+                "subject": "Oates",
+                "verb": "follow",
+                "stem": "follow",
+                "object": "Tom"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "Mov-18": {
+        "SVO_relationships": [
+            {
+                "subject": "Holly",
+                "verb": "take",
+                "stem": "take",
+                "object": "a sip"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-27": {
+        "SVO_relationships": [
+            {
+                "subject": "Hannah",
+                "verb": "be",
+                "stem": "be",
+                "object": "seeds"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-34": {
+        "SVO_relationships": [
+            {
+                "subject": "court",
+                "verb": "be",
+                "stem": "be",
+                "object": "CHUCKIE SULLIVAN"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-37": {
+        "SVO_relationships": [
+            {
+                "subject": "Hannah",
+                "verb": "invite",
+                "stem": "invite",
+                "object": "some men"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-39": {
+        "SVO_relationships": [
+            {
+                "subject": "Must",
+                "verb": "be",
+                "stem": "be",
+                "object": "someplace"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-48": {
+        "SVO_relationships": [
+            {
+                "subject": "world",
+                "verb": "renowned",
+                "stem": "renowned",
+                "object": "astro- physicists"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "Mov-49": {
+        "SVO_relationships": [
+            {
+                "subject": "The woman",
+                "verb": "say",
+                "stem": "say",
+                "object": "something"
+            }
+        ],
+        "total_SVOs": 1
+    }
+}

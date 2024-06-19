@@ -1,0 +1,607 @@
+{
+    "NPR-1": {
+        "SVO_relationships": [
+            {
+                "subject": "the new DLC members",
+                "verb": "have",
+                "stem": "have",
+                "object": "experience"
+            },
+            {
+                "subject": "These new members",
+                "verb": "help",
+                "stem": "help",
+                "object": "position"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-3": {
+        "SVO_relationships": [
+            {
+                "subject": "Collins",
+                "verb": "be",
+                "stem": "be",
+                "object": "the first woman"
+            },
+            {
+                "subject": "LeBlanc",
+                "verb": "serve",
+                "stem": "serve",
+                "object": "Deputy Director"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-4": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            },
+            {
+                "subject": "Collins",
+                "verb": "be",
+                "stem": "be",
+                "object": "a Principal consultant"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-7": {
+        "SVO_relationships": [
+            {
+                "subject": "Collins",
+                "verb": "hold",
+                "stem": "hold",
+                "object": "a Master"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "have",
+                "stem": "have",
+                "object": "Elizabeth"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-8": {
+        "SVO_relationships": [
+            {
+                "subject": "Beth",
+                "verb": "start",
+                "stem": "start",
+                "object": "’"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-11": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Goubet"
+            },
+            {
+                "subject": "Goubet",
+                "verb": "have",
+                "stem": "have",
+                "object": "’"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-12": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Director Halpern"
+            },
+            {
+                "subject": "Charlie Amiot",
+                "verb": "be",
+                "stem": "be",
+                "object": "the Government Information"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-13": {
+        "SVO_relationships": [
+            {
+                "subject": "the cake",
+                "verb": "suffer",
+                "stem": "suffer",
+                "object": "a bit"
+            },
+            {
+                "subject": "Goubet",
+                "verb": "say",
+                "stem": "say",
+                "object": "every part"
+            },
+            {
+                "subject": "days",
+                "verb": "create",
+                "stem": "create",
+                "object": "the sugar"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "NPR-14": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Goubet"
+            },
+            {
+                "subject": "month",
+                "verb": "work",
+                "stem": "work",
+                "object": "’"
+            },
+            {
+                "subject": "great uncle Roger Grison",
+                "verb": "own",
+                "stem": "own",
+                "object": "the bakery"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "NPR-15": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Goubet"
+            },
+            {
+                "subject": "The home",
+                "verb": "be",
+                "stem": "be",
+                "object": "Foodie Capital"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-16": {
+        "SVO_relationships": [
+            {
+                "subject": "’ t",
+                "verb": "make",
+                "stem": "make",
+                "object": "cakes"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-17": {
+        "SVO_relationships": [
+            {
+                "subject": "This certification",
+                "verb": "provide",
+                "stem": "provide",
+                "object": "data producers"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-19": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            },
+            {
+                "subject": "GPO",
+                "verb": "add",
+                "stem": "add",
+                "object": "an average"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-20": {
+        "SVO_relationships": [
+            {
+                "subject": "Director",
+                "verb": "outline",
+                "stem": "outline",
+                "object": "’"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-21": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Director Halpern"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "note",
+                "stem": "note",
+                "object": "the following potential applications"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-23": {
+        "SVO_relationships": [
+            {
+                "subject": "DeLuca",
+                "verb": "be",
+                "stem": "be",
+                "object": "an academic library administrator"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-24": {
+        "SVO_relationships": [
+            {
+                "subject": "information materials",
+                "verb": "Screening",
+                "stem": "Screening",
+                "object": "– Scan documents"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-26": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Simon"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-27": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Simon"
+            },
+            {
+                "subject": "Grandma Lil",
+                "verb": "be",
+                "stem": "be",
+                "object": "kind"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-28": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Simon"
+            },
+            {
+                "subject": "teammates",
+                "verb": "have",
+                "stem": "have",
+                "object": "GPO"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            },
+            {
+                "subject": "GPO",
+                "verb": "be",
+                "stem": "be",
+                "object": "a special place"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "NPR-30": {
+        "SVO_relationships": [
+            {
+                "subject": "employees",
+                "verb": "be",
+                "stem": "be",
+                "object": "midsize employers"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-32": {
+        "SVO_relationships": [
+            {
+                "subject": "the public ’ s",
+                "verb": "increase",
+                "stem": "increase",
+                "object": "need"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            },
+            {
+                "subject": "GPO",
+                "verb": "be",
+                "stem": "be",
+                "object": "access"
+            },
+            {
+                "subject": "people",
+                "verb": "make",
+                "stem": "make",
+                "object": "use"
+            }
+        ],
+        "total_SVOs": 4
+    },
+    "NPR-33": {
+        "SVO_relationships": [
+            {
+                "subject": "The first release",
+                "verb": "include",
+                "stem": "include",
+                "object": "Directories"
+            },
+            {
+                "subject": "Additional",
+                "verb": "digitize",
+                "stem": "digitize",
+                "object": "historic Congressional Directories"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-34": {
+        "SVO_relationships": [
+            {
+                "subject": "DeLuca",
+                "verb": "link",
+                "stem": "link",
+                "object": "academic audiences"
+            },
+            {
+                "subject": "A. Lawrence",
+                "verb": "be",
+                "stem": "be",
+                "object": "the Government Documents Librarian"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-35": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-36": {
+        "SVO_relationships": [
+            {
+                "subject": "hard work",
+                "verb": "ensure",
+                "stem": "ensure",
+                "object": "these historic directories"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-37": {
+        "SVO_relationships": [
+            {
+                "subject": "Knoxville",
+                "verb": "have",
+                "stem": "have",
+                "object": "Memorandum"
+            },
+            {
+                "subject": "other libraries",
+                "verb": "be",
+                "stem": "be",
+                "object": "materials"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-38": {
+        "SVO_relationships": [
+            {
+                "subject": "GPO",
+                "verb": "have",
+                "stem": "have",
+                "object": "Preservation Stewards"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-39": {
+        "SVO_relationships": [
+            {
+                "subject": "prints",
+                "verb": "go",
+                "stem": "go",
+                "object": "Ned R. McWherter Library"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-41": {
+        "SVO_relationships": [
+            {
+                "subject": "report",
+                "verb": "recommend",
+                "stem": "recommend",
+                "object": "a digital FDLP"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-42": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Director Halpern"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-43": {
+        "SVO_relationships": [
+            {
+                "subject": "members",
+                "verb": "represent",
+                "stem": "represent",
+                "object": "the Depository Library"
+            }
+        ],
+        "total_SVOs": 1
+    },
+    "NPR-44": {
+        "SVO_relationships": [
+            {
+                "subject": "This program",
+                "verb": "be",
+                "stem": "be",
+                "object": "a critical element"
+            },
+            {
+                "subject": "The graduates",
+                "verb": "help",
+                "stem": "help",
+                "object": "a first-rate workforce"
+            }
+        ],
+        "total_SVOs": 2
+    },
+    "NPR-46": {
+        "SVO_relationships": [
+            {
+                "subject": "Agency",
+                "verb": "be",
+                "stem": "be",
+                "object": "future classes"
+            },
+            {
+                "subject": "GPO",
+                "verb": "have",
+                "stem": "have",
+                "object": "the next generation"
+            },
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "GPO Director Hugh Nathanial Halpern"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "NPR-47": {
+        "SVO_relationships": [
+            {
+                "subject": "Andrea Stelljes",
+                "verb": "be",
+                "stem": "be",
+                "object": "the Librarian/Depository Library Coordinator"
+            },
+            {
+                "subject": "Andrea",
+                "verb": "have",
+                "stem": "have",
+                "object": "extensive experience managing"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "present",
+                "stem": "present",
+                "object": "’"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "NPR-48": {
+        "SVO_relationships": [
+            {
+                "subject": "Halpern",
+                "verb": "request",
+                "stem": "request",
+                "object": "appropriations"
+            },
+            {
+                "subject": "request",
+                "verb": "enable",
+                "stem": "enable",
+                "object": "GPO"
+            },
+            {
+                "subject": "meet",
+                "verb": "project",
+                "stem": "project",
+                "object": "requirements"
+            }
+        ],
+        "total_SVOs": 3
+    },
+    "NPR-49": {
+        "SVO_relationships": [
+            {
+                "subject": "”",
+                "verb": "say",
+                "stem": "say",
+                "object": "Director Hugh Nathanial Halpern"
+            },
+            {
+                "subject": "Halpern",
+                "verb": "highlight",
+                "stem": "highlight",
+                "object": "accomplishments"
+            }
+        ],
+        "total_SVOs": 2
+    }
+}
